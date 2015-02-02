@@ -1,0 +1,1 @@
+$(document).foundation(),$(document).ready(function(){$(".home-slider").slick({autoplay:!0,fade:!0})});
