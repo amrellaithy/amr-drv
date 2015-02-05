@@ -56,6 +56,7 @@
 
 // Allows the use of rem-calc() or lower-bound() in your settings
 @import "foundation/functions";
+@import url(http://fonts.googleapis.com/css?family=Raleway:400,200);
 
 // The default font-size is set to 100% of the browser style sheet (usually 16px)
 // for compatibility with browser-based text zoom or user-set defaults.
@@ -87,7 +88,7 @@ $row-width: 100%;
 // - - - - - - - - - - - - - - - - - - - - - - - - -
 
 // We use these to define default font stacks
-// $font-family-sans-serif: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+$font-family-sans-serif: "Raleway", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
 // $font-family-serif: Georgia, Cambria, "Times New Roman", Times, serif;
 // $font-family-monospace: Consolas, "Liberation Mono", Courier, monospace;
 
@@ -197,7 +198,7 @@ $body-bg: $secondary-color;
 // We use these to control header font styles
 // $header-font-family: $body-font-family;
 // $header-font-weight: $font-weight-normal;
-// $header-font-style: normal;
+// $header-font-style: lighter;
 // $header-font-color: $jet;
 // $header-line-height: 1.4;
 // $header-top-margin: .2rem;

@@ -1,1 +1,1 @@
-$(document).foundation(),$(document).ready(function(){$(".home-slider").slick({autoplay:!0,fade:!0})});
+$(document).foundation(),$(document).ready(function(){$(".home-slider").slick({autoplay:!0,fade:!0}),$(".dropdown_button").click(function(){return $(".dropdown_menu").slideToggle(300,function(){}),!1}),$.stellar({horizontalScrolling:!1,verticalOffset:40})});
