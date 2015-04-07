@@ -6,33 +6,54 @@
     <title>Scent Hill</title>
     <link rel="stylesheet" href="css/app.css" />
     <link rel="stylesheet" type="text/css" href="bower_components/slick.js/slick/slick.css"/>
-    <script src="bower_components/modernizr/min/modernizr-min.js"></script>
+    <script src="bower_components/modernizr/modernizr.js"></script>
   </head>
   <body>
-
+<div class="off-canvas-wrap" data-offcanvas>
+  <div class="inner-wrap">
 
   
-    <nav class="top-bar" data-topbar role="navigation" style="box-sizing: border-box; box-shadow: rgba(0, 0, 0, 0.247059) 0px 2px 4px 0px; z-index: 9999;">
+    <nav class="top-bar show-for-large-up" data-topbar role="navigation">
       <div class="small-10 columns small-centered">
         <ul class="title-area">
           <li class="logo">
-            <a href="#">
+            <a href="/index.html">
              <img src="../assets/img/logo.png" style="height:70px" />
            </a>
          </li>
        </ul>
-       <section class="top-bar-section">
-        <ul>
-          <ul class="left top-bar-nav">
+       <section class="right top-bar-section show-for-large-up" style="margin-right:7%;">
+          <ul class="top-bar-nav">
+            <li><a href="#">About</a></li>
             <!-- <li class="dropdown_button"><a href="/products.html">Products</a></li> -->
             <li><a href="/products.html">Products</a></li>
-            <li><a href="#">Location</a></li>
+            <li><a href="#">Scented Decor</a></li>
+            <li><a href="#">Orders</a></li>
             <li><a href="#">Contact Us</a></li>
           </ul>
         </section>
       </div>
     </nav>
 
+    <nav class="tab-bar hide-for-large-up">
+      <section class="left-small">
+        <a class="left-off-canvas-toggle menu-icon" href="#"><span></span></a>
+      </section>
+
+      <section class="middle tab-bar-section">
+        <img src="../assets/img/logo.png" style="height:70px" />
+    </nav>
+
+    <aside class="left-off-canvas-menu">
+  <ul class="off-canvas-list">
+    <li><label>Menu</label></li>
+    <li><a href="#">About</a></li>
+    <li><a href="/products.html">Products</a></li>
+    <li><a href="#">Scented Decor</a></li>
+    <li><a href="#">Orders</a></li>
+    <li><a href="#">Contact Us</a></li>
+  </ul>
+    </aside>
 
 
     <section class="dropdown_menu">
@@ -83,24 +104,33 @@
 
 
 
-    <div class="row" data-equalizer>
-      <div style="padding: 0px;" class="small-6 columns" data-equalizer-watch>
+    <div class="row">
+      <div class="small-12 columns">
         <div class="home-slider">
           <div>
-            <img src="/assets/img/hstown.jpg" />
+            <img src="/assets/img/hstownorig.jpg" />
           </div>
           <div>
-            <img src="/assets/img/hsoud.jpg" />
+            <img src="/assets/img/hsdecanter.jpg" />
           </div>
           <div>
-            <img src="/assets/img/hsjapan.jpg" />
+            <img src="/assets/img/hslibrary.jpg" />
+          </div>
+          <div>
+            <img src="/assets/img/hsrelaxorig.jpg" />
+          </div>
+          <div>
+            <img src="/assets/img/hskitchenorig.jpg" />
+          </div>
+          <div>
+            <img src="/assets/img/hsbathroom.jpg" />
           </div>
         </div>
       </div>
-      <div class="small-6 columns promo" data-equalizer-watch>
+<!--       <div class="small-6 columns promo" data-equalizer-watch>
         <img src="assets/img/hpromon.jpg" />
         <img src="assets/img/hpromoagua.jpg" />
-      </div>
+      </div> -->
     </div>
 
 
@@ -152,15 +182,17 @@
           </nav>
         </div>
         <div class="footer_section">
-          <h4>Information</h4>
+          <h4>Contact Us</h4>
           <nav>
             <a href="#">Phone: 01101010101</a>
             <a href="#">Address: 742 Evergreen Terrace</a>
             <a href="#">Opening Hours: Sun - Sat: 08:30 - 22:30</a>
+            <a href="#">Download Catalogue</a>
           </nav>
         </div>
+
         <div class="footer_section">
-          <h4>Connect with Dr. Vranjes Egypt</h4>
+          <h4>Connect with Scent Hill</h4>
           <div>
             <a href="http://www.facebook.com"><img src="/assets/img/facebook.png" /></a>
             <a href="http://instagram.com"><img src="/assets/img/instagram.png" /></a>
@@ -171,6 +203,10 @@
         </div>
       </div>
     </footer>
+
+    <a class="exit-off-canvas"></a>
+</div>
+</div>
 
 
 

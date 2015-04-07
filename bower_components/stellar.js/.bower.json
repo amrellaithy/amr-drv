@@ -16,6 +16,5 @@
   },
   "_source": "git://github.com/markdalgleish/stellar.js.git",
   "_target": "~0.6.2",
-  "_originalSource": "stellar.js",
-  "_direct": true
+  "_originalSource": "stellar.js"
 }

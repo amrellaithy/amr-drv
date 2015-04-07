@@ -39,7 +39,6 @@ $slick-opacity-not-active: .25 !default;
 
 .slick-slider {
     position: relative;
-    overflow: hidden;
     display: block;
     box-sizing: border-box;
     -moz-box-sizing: border-box;
@@ -219,7 +218,7 @@ $slick-opacity-not-active: .25 !default;
 /* Dots */
 
 .slick-slider {
-    margin-bottom: 0px;
+    margin-bottom: 30px;
 }
 .slick-dots {
     position: absolute;

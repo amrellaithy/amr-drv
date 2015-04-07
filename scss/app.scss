@@ -40,9 +40,14 @@
 //   "foundation/components/visibility";
 
 
+.home-slider{
+	width: 100%;
+	//height: auto;
+}
 
 .home-slider div img {
 	width: 100%;
+	//height:100%;
 }
 
 #homepage_categories{
@@ -103,7 +108,8 @@ footer[role=contentinfo] {
 	padding: 2em 0;
 //margin-top: 4em;
 background-color: #333333;
-height: 20em;
+height: rem-calc(300);
+//font-size: rem-calc(2);
 }
 
 footer[role=contentinfo]>div {
@@ -136,6 +142,18 @@ display: block;
 }
 
 
+.top-bar{
+	 box-sizing: border-box; 
+	 box-shadow: rgba(0, 0, 0, 0.247059) 0px 2px 4px 0px; 
+	 z-index: 9999;
+}
+
+.tab-bar{
+	box-sizing: border-box; 
+	box-shadow: rgba(0, 0, 0, 0.247059) 0px 2px 4px 0px; 
+	z-index: 9999;
+}
+
 
 .top-bar-nav li{
 	margin: 0 5px 0 5px;
@@ -151,7 +169,7 @@ display: block;
 
 .logo{
 	margin-top: 10px;
-	margin-right: 10px;
+	//margin-right: 10px;
 }
 
 .dropdown_menu nav {
@@ -198,8 +216,8 @@ display: block;
 	padding: 2em 10em 2em;
 	background-color: #6E504E;
 	text-align: center;
-	margin-bottom: 2em;
-	box-shadow: 0px -1px 8px 0px rgba(0,0,0,0.75);
+	//margin-bottom: 2em;
+	box-shadow: 0px 1px 8px 0px rgba(0,0,0,0.75);
 }
 
 .products_header h4{
@@ -209,7 +227,16 @@ display: block;
 	color: white;
 }
 
+.products_grid{
+	//background-color: #FFFAFA;
+	//padding-top: 50px;
+	//margin-bottom: 20px;
+	margin-top: 2em;
+}
+
 .products_grid li div{
+
+	//color: #54463b;
 	color: white;
 	text-align: center;
 }
@@ -219,16 +246,20 @@ display: block;
 }
 
 .products_grid li div p{
+	//color: #54463b;
 	color: white;
 	text-decoration: none;
 	text-align: center;
 	font-size: 0.88em;
+	font-align: 0.88em;
 }
 
 
 
 .products_grid li div img{ 
 	box-shadow: 0 0 3px rgba(0, 0, 0, 0.8);
+	//height: 200px;
+	//width: 1000px;
 	
 }
 
@@ -238,4 +269,40 @@ display: block;
 	transform: scale(1.001,1.001);
 	//opacity: 0.7;
 	//transition: all 500ms ease-in-out;
+}
+
+.product_view{
+	//background-color: white;
+	//display: inline;
+	margin: rem-calc(50) rem-calc(0) rem-calc(150);
+}
+
+.product_breadcrumbs{
+	margin: rem-calc(60) rem-calc(0) rem-calc(0);
+}
+
+.pimg{
+	background-color: white;
+	overflow: hidden;
+
+}
+
+.pimg img{
+	width:100%;
+}
+
+.pinfo p{
+	//background-color: white;
+	font-size: rem-calc(14);
+	color: white;
+}
+
+.pinfo h4{
+	color: white;
+}
+
+#pprice{
+	//text-align: right;
+	margin-top: rem-calc(50);
+	//border: solid 1px black;
 }
