@@ -1,13 +1,19 @@
 $(document).foundation();
 
 $(document).ready(function(){
-  $('.home-slider').slick({
-    autoplay: true,
-    fade: true,
-    arrows: false,
-    dots: false,
-    pauseOnHover: false
-  });
+  // $('.home-slider').slick({
+  //   autoplay: true,
+  //   fade: true,
+  //   arrows: true,
+  //   dots: true,
+  //   pauseOnHover: false,
+  //   lazyLoad: true
+  // });
+$('.main-gallery').flickity({
+  imagesLoaded: true,
+  pageDots: true,
+  wrapAround: true
+});
 
 
 
@@ -26,6 +32,9 @@ $(document).ready(function(){
 
 
 });
+
+
+
 
 var price = {
   "0": "EGP 100",

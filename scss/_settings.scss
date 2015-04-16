@@ -677,7 +677,7 @@ $crumb-font-color: white;
 // $glowing-effect-color: $input-focus-border-color;
 
 // Select variables
-$select-bg-color: $primary-color;
+$select-bg-color: $white;
 // $select-hover-bg-color: scale-color($select-bg-color, $lightness: -3%);
 
 // 12. Icon Bar
@@ -955,7 +955,7 @@ $tabbar-height: rem-calc(80);
 // $include-html-panel-classes: $include-html-classes;
 
 // We use these to control the background and border styles
-// $panel-bg: scale-color($white, $lightness: -5%);
+$panel-bg: scale-color($secondary-color, $lightness: -5%);
 // $panel-border-style: solid;
 // $panel-border-size: 1px;
 

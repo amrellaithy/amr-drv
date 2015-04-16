@@ -153,6 +153,7 @@ $slick-opacity-not-active: .25 !default;
 
 .slick-prev,
 .slick-next {
+    z-index:9999;
     position: absolute;
     display: block;
     height: 20px;
@@ -189,10 +190,10 @@ $slick-opacity-not-active: .25 !default;
     -moz-osx-font-smoothing: grayscale;
 }
 .slick-prev {
-    left: -25px;
+    left: 25px;
     [dir="rtl"] & {
         left:  auto;
-        right: -25px;
+        right: 25px;
     }
     &:before {
         content: $slick-prev-character;
