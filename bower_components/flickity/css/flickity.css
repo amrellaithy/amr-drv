@@ -43,6 +43,7 @@ http://flickity.metafizzy.co
 /* ---- previous/next buttons ---- */
 
 .flickity-prev-next-button {
+  color: #333333;
   position: absolute;
   top: 50%;
   width: 100px;
@@ -70,8 +71,8 @@ http://flickity.metafizzy.co
   opacity: 0.6;
 }
 
-.flickity-prev-next-button.previous { left: 10px; }
-.flickity-prev-next-button.next { right: 10px; }
+.flickity-prev-next-button.previous { left: -100px; }
+.flickity-prev-next-button.next { right: -100px; }
 /* right to left */
 .flickity-rtl .flickity-prev-next-button.previous {
   left: auto;
@@ -97,12 +98,12 @@ http://flickity.metafizzy.co
 }
 
 .flickity-prev-next-button .arrow {
-  fill: white;
+  fill: #6E5D4E;
 }
 
 /* color & size if no SVG - IE8 and Android 2.3 */
 .flickity-prev-next-button.no-svg {
-  color: white;
+  color: #6E5D4E;
   font-size: 26px;
 }
 

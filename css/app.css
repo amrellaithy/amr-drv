@@ -6077,6 +6077,9 @@ th.hide-for-touch {
     display: table-cell !important; }
  }
 
+.main-gallery {
+  margin: 2.5em 0 2.5em 0; }
+
 .main-gallery img {
   width: 100%; }
 
