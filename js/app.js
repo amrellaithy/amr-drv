@@ -9,6 +9,9 @@ $(document).ready(function(){
   //   pauseOnHover: false,
   //   lazyLoad: true
   // });
+
+
+
 $('.main-gallery').flickity({
   imagesLoaded: true,
   pageDots: true,
@@ -31,21 +34,24 @@ $('.main-gallery').flickity({
 
 
 
+
+
 });
 
 
 
 
-var price = {
-  "0": "EGP 100",
-  "1": "EGP 250",
-  "2": "EGP 500",
-  "3": "EGP 999"
-};
+
+// var price = {
+//   "0": "EGP 100",
+//   "1": "EGP 250",
+//   "2": "EGP 500",
+//   "3": "EGP 999"
+// };
 
 
-$('.size').change(function(){
-  document.getElementById('pprice').innerHTML = "<h3>" + price[$(this).val()] + "</h3>";
-});
+// $('.size').change(function(){
+//   document.getElementById('pprice').innerHTML = "<h3>" + price[$(this).val()] + "</h3>";
+// });
 
 
