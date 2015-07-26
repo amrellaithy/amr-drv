@@ -15,7 +15,9 @@ $(document).ready(function(){
 $('.main-gallery').flickity({
   imagesLoaded: true,
   pageDots: true,
-  wrapAround: true
+  wrapAround: false,
+  freescroll: false,
+  contain: true
 });
 
 
@@ -37,9 +39,6 @@ $('.main-gallery').flickity({
 
 
 });
-
-
-
 
 
 var price = {

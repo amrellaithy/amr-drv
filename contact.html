@@ -55,26 +55,34 @@
         </ul>
       </aside>
 
-      <div class="row contact_view" data-equalizer>
-        <div class="large-4 small-10 small-offset-1 columns" data-equalizer-watch>
+      <div class="row contact_view">
+<!--         <div class="large-4 small-10 small-offset-1 columns" data-equalizer-watch>
           <div class="flex-video map_canvas">
             <iframe frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/view?zoom=12&center=30.0444%2C31.2357&key=AIzaSyBAt3ARcKyJHDwJnsvryny4PXU9Uj7aK-M"></iframe>
           </div>
-        </div>
-        <div class="large-5 small-10 small-offset-1 columns end" data-equalizer-watch>
-          <!-- <div class="panel"> -->
+        </div> -->
+        <div class="large-5 small-10 small-offset-1 columns">
+          <div class="panel">
           <h4 style="text-decoration: underline; color: white;">Scent Hill</h4><br /><br />
-          <p>Phone:</p>
+<!--           <p>Phone:</p>
           <p>Email:</p>
           <p>Address:</p>
           <p>Directions:</p>
-          <!-- </div> -->
+ -->
+          <form action="//formspree.io/laithy.amr@gmail.com" method="POST">
+            <input type="text" name="name" placeholder="Name">
+            <input type="email" name="_replyto" placeholder="Email">
+            <textarea name="body" placeholder="Message"></textarea>
+            <input class="button" type="submit" value="Send">
+            <input type="hidden" name="_next" value="/thanks.html" />
+          </form>
+          </div>
         </div>
       </div>
 
 
       <div class="row footer">
-        <div class="large-3 medium-3 small-12 columns footer_section">
+<!--         <div class="large-3 medium-3 small-12 columns footer_section">
 
           <h4>Blog</h4>
           <ul class="no-bullet">
@@ -86,15 +94,13 @@
             <li><a href="#">Title</a></li>
             <li><a href="#">Another Title</a></li>
           </ul>
-        </div>
+        </div> -->
 
-        <div class="large-3 medium-3 small-12 columns footer_section">
+        <div class="large-6 medium-6 small-12 columns footer_section">
 
           <h4>Contact Us</h4>
           <ul class="no-bullet">
-            <li><a href="#">Phone: 01101010101</a></li>
-            <li><a href="#">Address: 742 Evergreen Terrace</a></li>
-            <li><a href="#">Opening Hours: Sun - Sat: 08:30 - 22:30</a></li>
+            <li><a href="mailto:sales@scenthillegypt.com" target="_top">Email: sales@scenthillegypt.com</a></li>
             <li><a href="#">Download Catalogue</a></li>
           </ul>
         </div>
