@@ -118,7 +118,9 @@ $font-family-sans-serif: "Raleway", "Helvetica Neue", Helvetica, Roboto, Arial, 
 
 // We use these as default colors throughout
 $primary-color: #6E5D4E;
+//$primary-color: #33251F;
 $secondary-color: #7b6857;
+//$secondary-color: #94795d;
 // $alert-color: #f04124;
 // $success-color: #43AC6A;
 // $warning-color: #f08a24;
@@ -321,13 +323,13 @@ $h6-font-reduction: 0 !default;
 // $accordion-navigation-padding: rem-calc(16);
 $accordion-navigation-bg-color: scale-color($secondary-color, $lightness: -5%);
 // $accordion-navigation-hover-bg-color: scale-color($accordion-navigation-bg-color, $lightness: -5%);
-$accordion-navigation-active-bg-color: scale-color($accordion-navigation-bg-color, $lightness: -5%);
+$accordion-navigation-active-bg-color: scale-color($accordion-navigation-bg-color, $lightness: -15%);
 $accordion-navigation-font-color: $snow;
 // $accordion-navigation-font-size: rem-calc(16);
 // $accordion-navigation-font-family: $body-font-family;
 
 $accordion-content-padding: rem-calc(30);
-$accordion-content-active-bg-color: scale-color($secondary-color, $lightness: -5%);
+$accordion-content-active-bg-color: scale-color($secondary-color, $lightness: -10%);
 
 // 02. Alert Boxes
 // - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -1369,7 +1371,7 @@ $topbar-bg-color: $primary-color;
 // $topbar-bg: $topbar-bg-color;
 
 // Height and margin
-$topbar-height: rem-calc(85);
+$topbar-height: rem-calc(100);
 // $topbar-margin-bottom: 0;
 
 // Controlling the styles for the title in the top bar
