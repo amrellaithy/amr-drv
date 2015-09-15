@@ -46,8 +46,8 @@ http://flickity.metafizzy.co
   color: #333333;
   position: absolute;
   top: 50%;
-  width: 100px;
-  height: 100px;
+  width: 60px;
+  height: 60px;
   border: none;
   border-radius: 50%;
   background: transparent;
@@ -71,8 +71,8 @@ http://flickity.metafizzy.co
   opacity: 0.6;
 }
 
-.flickity-prev-next-button.previous { left: -100px; }
-.flickity-prev-next-button.next { right: -100px; }
+.flickity-prev-next-button.previous { left: -70px; }
+.flickity-prev-next-button.next { right: -70px; }
 /* right to left */
 .flickity-rtl .flickity-prev-next-button.previous {
   left: auto;

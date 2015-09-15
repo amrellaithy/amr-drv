@@ -115,11 +115,13 @@ $font-family-sans-serif: "Raleway", "Helvetica Neue", Helvetica, Roboto, Arial, 
 // $oil         : #333333;
 // $jet         : #222222;
 // $black       : #000000;
+$aromat : #645645;
+$beige: #d2bca0;
 
 // We use these as default colors throughout
-$primary-color: #6E5D4E;
+$primary-color: #645645;
 //$primary-color: #33251F;
-$secondary-color: #7b6857;
+$secondary-color: #645645;
 //$secondary-color: #94795d;
 // $alert-color: #f04124;
 // $success-color: #43AC6A;
@@ -127,8 +129,8 @@ $secondary-color: #7b6857;
 // $info-color: #a0d3e8;
 
 // We use these to control various global styles
-$body-bg: $secondary-color;
-// $body-font-color: #fed4af;
+$body-bg: $primary-color;
+$body-font-color: $beige;
 // $body-font-family: $font-family-sans-serif;
 // $body-font-weight: $font-weight-normal;
 // $body-font-style: normal;
@@ -201,7 +203,7 @@ $large-range: (67.063em, 90em);
 // $header-font-family: $body-font-family;
 // $header-font-weight: $font-weight-normal;
 // $header-font-style: lighter;
-// $header-font-color: #fed4af;
+$header-font-color: $beige;
 // $header-line-height: 1.4;
 // $header-top-margin: .2rem;
 // $header-bottom-margin: .5rem;
@@ -258,7 +260,7 @@ $h6-font-reduction: 0 !default;
 // We use these to style anchors
 // $anchor-text-decoration: none;
 // $anchor-text-decoration-hover: none;
- // $anchor-font-color: #fed4af;
+$anchor-font-color: $beige;
 // $anchor-font-color-hover: scale-color($primary-color, $lightness: -14%);
 
 // We use these to style the <hr> element
@@ -324,7 +326,7 @@ $h6-font-reduction: 0 !default;
 $accordion-navigation-bg-color: scale-color($secondary-color, $lightness: -5%);
 // $accordion-navigation-hover-bg-color: scale-color($accordion-navigation-bg-color, $lightness: -5%);
 $accordion-navigation-active-bg-color: scale-color($accordion-navigation-bg-color, $lightness: -15%);
-$accordion-navigation-font-color: $snow;
+$accordion-navigation-font-color: $beige;
 // $accordion-navigation-font-size: rem-calc(16);
 // $accordion-navigation-font-family: $body-font-family;
 
@@ -408,8 +410,8 @@ $crumb-bg: scale-color($primary-color, $lightness: 0%);
 
 // We use these to set various text styles for breadcrumbs.
 // $crumb-font-size: rem-calc(11);
-$crumb-font-color: white;
-// $crumb-font-color-current: $oil;
+$crumb-font-color: $beige;
+$crumb-font-color-current: $white;
 // $crumb-font-color-unavailable: $aluminum;
 // $crumb-font-transform: uppercase;
 // $crumb-link-decor: underline;
@@ -431,7 +433,7 @@ $crumb-font-color: white;
 
 // We use this to control the display property.
 // $button-display: inline-block;
-// $button-margin-bottom: rem-calc(20);
+$button-margin-bottom: rem-calc(0);
 
 // We use these to control button text styles.
 // $button-font-family: $body-font-family;
@@ -450,7 +452,7 @@ $crumb-font-color: white;
 // We use these to control button border and hover styles.
 // $button-border-width: 0px;
 // $button-border-style: solid;
-// $button-bg-color: $primary-color;
+$button-bg-color: $body-font-color;
 // $button-bg-hover: scale-color($button-bg-color, $lightness: $button-function-factor);
 // $button-border-color: $button-bg-hover;
 // $secondary-button-bg-hover: scale-color($secondary-color, $lightness: $button-function-factor);
@@ -970,8 +972,8 @@ $panel-bg: scale-color($secondary-color, $lightness: -5%);
 // $panel-padding: rem-calc(20);
 
 // We use these to set default font colors
-// $panel-font-color: $oil;
-// $panel-font-color-alt: $white;
+$panel-font-color: $beige;
+$panel-font-color-alt: $beige;
 
 // $panel-header-adjust: true;
 // $callout-panel-link-color: $primary-color;
@@ -1304,12 +1306,12 @@ $panel-bg: scale-color($secondary-color, $lightness: -5%);
 
 // $include-html-tabs-classes: $include-html-classes;
 
-$tabs-navigation-padding: rem-calc(17);
-$tabs-navigation-bg-color: $secondary-color;
+$tabs-navigation-padding: rem-calc(15);
+$tabs-navigation-bg-color: $beige;
 $tabs-navigation-active-bg-color: $primary-color;
 $tabs-navigation-hover-bg-color: scale-color($primary-color, $lightness: 15%);
-$tabs-navigation-font-color: $snow;
-// $tabs-navigation-active-font-color: $tabs-navigation-font-color;
+$tabs-navigation-font-color: $primary-color;
+$tabs-navigation-active-font-color: $beige;
 // $tabs-navigation-font-size: rem-calc(16);
 // $tabs-navigation-font-family: $body-font-family;
 
@@ -1367,7 +1369,7 @@ $tabs-navigation-font-color: $snow;
 // $include-html-top-bar-classes: $include-html-classes;
 
 // Background color for the top bar
-$topbar-bg-color: $primary-color;
+$topbar-bg-color: $secondary-color;
 // $topbar-bg: $topbar-bg-color;
 
 // Height and margin
