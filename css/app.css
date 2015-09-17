@@ -6078,11 +6078,11 @@ th.hide-for-touch {
  }
 
 .main-gallery {
-  margin: 2.5em 0 2.5em 0; }
+  margin: 2.5em 0 2.5em 0;
+  border: solid 2px #d2bca0; }
 
 .main-gallery img {
-  width: 100%;
-  border: solid 2px #d2bca0; }
+  width: 100%; }
 
 #homepage_categories {
   clear: both;
@@ -6205,7 +6205,7 @@ th.hide-for-touch {
   color: white; }
 
 .products_header h6 {
-  color: #d2bca0; }
+  color: white; }
 
 .products_grid {
   margin-top: 2em; }
@@ -6275,12 +6275,17 @@ th.hide-for-touch {
   background-color: black;
   opacity: 0.85; }
 
-.pcategory a img:hover {
-  overflow: hidden;
-  transform: scale(1.01, 1.01);
-  transition: all 500ms ease-in-out; }
-
 .pcategory a h4 {
+  margin: 0;
+  padding: 0.1em;
+  text-align: center;
+  color: #fff;
+  text-shadow: 0 0 0 #fff;
+  font-weight: 200;
+  background-color: #52463a;
+  font-size: 18px; }
+
+.pcategory a h3 {
   position: absolute;
   top: 50%;
   -webkit-transform: translate(-50%, -50%);
@@ -6288,7 +6293,6 @@ th.hide-for-touch {
   -ms-transform: translate(-50%, -50%);
   -o-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
-  width: auto;
   left: 50%;
   text-align: center;
   color: #fff;
@@ -6340,7 +6344,11 @@ th.hide-for-touch {
   text-decoration: underline;
   text-align: center; }
 
+.about h5 {
+  color: white; }
+
 .about span {
+  text-decoration: underline;
   font-weight: 900; }
 
 .tabs {
@@ -6354,10 +6362,26 @@ th.hide-for-touch {
   margin: 10rem 30rem 25rem;
   text-align: center; }
 
+.bar {
+  position: relative;
+  top: 1em; }
+
+.bar .nav {
+  bottom: 0;
+  position: absolute; }
+
 .bar h4 {
+  text-align: right;
   color: #d2bca0;
+  padding-right: 10px;
+  font-style: italic;
   font-weight: lighter;
   line-height: 1.5; }
 
 .tabs-content h3 {
   color: white; }
+
+.line {
+  border-top: 2px solid #d2bca0;
+  height: 9px;
+  border-bottom: 1px solid #d2bca0; }

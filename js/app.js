@@ -49,6 +49,7 @@ var price = {
 };
 
 
+
 $('.size').change(function(){
   document.getElementById('pprice').innerHTML = "<h3>" + price[$(this).val()] + "</h3>";
 });

@@ -51,12 +51,13 @@
 // }
 .main-gallery{
 	margin: 2.5em 0 2.5em 0;
+	border: solid 2px $beige;
 }
 
 .main-gallery img {
 	width: 100%;
 	//height:100%;
-	border: solid 2px $beige;
+	
 }
 
 #homepage_categories{
@@ -159,6 +160,7 @@
 
 .logo{
 	margin-top: 10px;
+	//height: 700px;
 	//margin-right: 10px;
 }
 
@@ -215,7 +217,7 @@
 	color: white;
 }
 .products_header h6{
-	color: $beige;
+	color: white;
 }
 
 .products_grid{
@@ -335,13 +337,34 @@
 }
 
 .pcategory a img:hover{
-	overflow: hidden;
-	transform: scale(1.01,1.01);
+	//overflow: hidden;
+	//transform: scale(1.01,1.01);
 	//opacity: 0.5;
-	transition: all 500ms ease-in-out;
+	//transition: all 500ms ease-in-out;
 }
 
 .pcategory a h4 {
+	//position: absolute;
+	//top: 10px;
+	// -webkit-transform: translate(-50%,-50%);
+	// -moz-transform: translate(-50%,-50%);
+	// -ms-transform: translate(-50%,-50%);
+	// -o-transform: translate(-50%,-50%);
+	// transform: translate(-50%,-50%);
+	//width: 100%;
+	//left: 50%;
+	margin:0;
+	padding: 0.1em;
+	text-align: center;
+	color: #fff;
+	//padding-bottom: .5em;
+	text-shadow: 0 0 0 #fff;
+	font-weight:200;
+	background-color: #52463a;
+	font-size: 18px;
+}
+
+.pcategory a h3 {
 	position: absolute;
 	top: 50%;
 	-webkit-transform: translate(-50%,-50%);
@@ -349,14 +372,19 @@
 	-ms-transform: translate(-50%,-50%);
 	-o-transform: translate(-50%,-50%);
 	transform: translate(-50%,-50%);
-	width: auto;
+	//width: 100%;
 	left: 50%;
+	//margin:0;
+	//padding: 0.1em;
 	text-align: center;
 	color: #fff;
 	//padding-bottom: .5em;
 	text-shadow: 0 0 0 #fff;
 	font-weight:200;
+	//background-color: #52463a;
+	//font-size: 18px;
 }
+
 
 
 .hscategory div{
@@ -415,8 +443,12 @@
 	text-align: center;
 }
 
+.about h5{
+	color: white;
+}
+
 .about span{
-	// text-decoration: underline;
+	text-decoration: underline;
 	font-weight: 900;
 }
 
@@ -442,15 +474,34 @@
 
 }
 
+.bar {
+	position: relative;
+	top: 1em;
+}
+
+.bar .nav {
+	bottom: 0; 
+	position: absolute;
+}
+
 .bar h4{
+	text-align: right;
 	color: $beige;
+	padding-right: 10px;
 	// font-family: "Book Antiqua";
-	// font-style: italic;
+	font-style: italic;
 	font-weight: lighter;
 	line-height: 1.5;
 }
+
 .tabs-content h3{
 	color: white;
+}
+
+.line{
+	border-top: 2px solid $beige;
+    height: 9px;
+    border-bottom: 1px solid $beige;
 }
 
 

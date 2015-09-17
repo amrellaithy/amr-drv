@@ -4,15 +4,17 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Scent Hill</title>
-  <link rel="stylesheet" href="/css/app.css" />
-  <script src="/bower_components/modernizr/modernizr.js"></script>
+  <link rel="stylesheet" href="css/app.css" />
+  <link rel="stylesheet" href="bower_components/flickity/css/flickity.css">
+  <script src="bower_components/modernizr/modernizr.js"></script>
+  <script src="https://js.moltin.com/v1"></script>
 </head>
 <body>
   <div class="off-canvas-wrap" data-offcanvas>
     <div class="inner-wrap">
 
 
-            <div class="row bar show-for-large-up">
+      <div class="row bar show-for-large-up">
         <div class="small-2 columns small-offset-2">
           <a class="logo" href="/">
             <img src="/assets/img/logo.png"/>
@@ -34,6 +36,8 @@
         </div>
       </div>
 
+
+
       <nav class="tab-bar hide-for-large-up">
         <section class="left-small">
           <a class="left-off-canvas-toggle menu-icon" href="#"><span></span></a>
@@ -42,69 +46,31 @@
         <section class="middle tab-bar-section">
           <img href="/" src="/assets/img/logo.png" style="height:70px;" />
         </section>
-      </section>
+      </nav>
 
-    </nav>
-
-    <aside class="left-off-canvas-menu">
-      <ul class="off-canvas-list">
-        <li><label>Menu</label></li>
-        <li><a href="/about.html">About</a></li>
-        <li><a href="/products.html">Products</a></li>
-        <li><a href="/scenteddecor.html">Scented Decor</a></li>
-        <li><a href="#">Orders</a></li>
-        <li><a href="/contact.html">Contact Us</a></li>
-      </ul>
-    </aside>
+      <aside class="left-off-canvas-menu">
+        <ul class="off-canvas-list">
+          <li><label>Menu</label></li>
+          <li><a href="/about.html">About</a></li>
+          <li><a href="/products.html">Products</a></li>
+          <li><a href="/scenteddecor.html">Scented Decor</a></li>
+          <li><a href="#">Orders</a></li>
+          <li><a href="/contact.html">Contact Us</a></li>
+        </ul>
+      </aside>
 
 
-    <div class="row">
-      <div class="small-10 small-offset-1 columns product_breadcrumbs">
-        <nav class="breadcrumbs">
-          <a href="/">Home</a>
-          <a href="/scenteddecor.html">Scented Decor</a>
-          <a href="/scenteddecor/bedroom.html">Bedroom</a>
-          <a class="current" href="#">Acqua</a>
-        </nav>
-      </div>
-    </div>
-
-
-    <div class="row">
-      <div class="small-10 small-offset-1 columns product_view">
-        <div class="small-4 columns pimg">
-          <img src="/assets/img/products/fragrances/F8.png">
-        </div>
-
-        <div class="small-7 columns pinfo">
-          <h4>Acqua</h4>
-          <p>Dr. Vranjes Acqua home fragrance is a refined and light fragrance with  aromatic notes of basil leaves combined with intense marine notes and blended with white musk and salt. The Fragrance with character and personality.<br /><br />ACQUA fragrance has relaxing, soothing and anti-stress effect.<br /><br />Bedroom, bathroom, modern living room.</p>
-
-
-          <label>Select Size
-            <select class="size">
-              <option value="0">25ml Spray</option>
-              <option value="1">100ml Spray</option>
-              <option value="2">100ml</option>
-              <option value="3">250ml</option>
-              <option value="4">500ml</option>
-              <option value="5">2500ml</option>
-              <option value="6">5000ml</option>
-            </select>
-          </label>
-
-
-          <!--           <div id="pprice">
-            <h3>EGP 100</h3>
-          </div> -->
-
-        </div>
-
-
-
-
-      </div>
-    </div>
+<div class="row">
+  <div class="small-8 small-offset-2 columns">
+    <article>
+      <header>
+        <h3>Title</h3>
+        <time>01/10/2015</time>
+      </header>
+      <p>The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog.</p>
+    </article>
+  </div>
+</div>
 
 
       <div class="row footer">
@@ -121,8 +87,7 @@
             <li><a href="#">Another Title</a></li>
           </ul>
         </div> -->
-
-         <div class="medium-8 small-12 columns line small-centered">
+        <div class="medium-8 small-12 columns line small-centered">
         <div class="large-4 medium-4 small-12 columns footer_section">
 
           <h4>Contact Us</h4>
@@ -133,7 +98,7 @@
         </div>
         <div class="large-4 medium-4 small-12 columns footer_section">
         <h4> Official Distributor</h4>
-          <img src="/assets/img/logodr.png" style="height: 5em;"/>
+          <img src="/assets/img/logodr.png" style="height: rem-calc(10);"/>
     
         </div>
 
@@ -150,17 +115,19 @@
         </div>
         </div>
       </div>
-      
+
+
 <a class="exit-off-canvas"></a>
-  </div>
+</div>
 </div>
 
 
 
-<script src="/bower_components/jquery/dist/jquery.min.js"></script>
-<script src="/bower_components/foundation/js/foundation.min.js"></script>
-<script src="/js/min/app-min.js"></script>
-
+<script src="bower_components/jquery/dist/jquery.min.js"></script>
+<script src="bower_components/foundation/js/foundation.min.js"></script>
+<script src="bower_components/flickity/js/flickity.pkgd.min.js"></script>
+<script src="bower_components/stellar.js/jquery.stellar.min.js"></script>
+<script src="js/min/app-min.js"></script>
 
 
 
