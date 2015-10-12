@@ -484,6 +484,14 @@
 	position: absolute;
 }
 
+.bar .nav ul {
+    white-space: nowrap;
+}
+
+.bar .nav ul li {
+    display: table-cell;
+}
+
 .bar h4{
 	text-align: right;
 	color: $beige;

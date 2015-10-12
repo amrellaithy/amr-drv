@@ -6370,6 +6370,12 @@ th.hide-for-touch {
   bottom: 0;
   position: absolute; }
 
+.bar .nav ul {
+  white-space: nowrap; }
+
+.bar .nav ul li {
+  display: table-cell; }
+
 .bar h4 {
   text-align: right;
   color: #d2bca0;
