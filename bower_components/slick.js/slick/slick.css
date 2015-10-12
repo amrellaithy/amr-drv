@@ -44,7 +44,7 @@
 [dir="rtl"] .slick-next:before { content: "←"; }
 
 /* Dots */
-/*.slick-slider { margin-bottom: 30px; }*/
+.slick-slider { margin-bottom: 30px; }
 
 .slick-dots { position: absolute; bottom: -45px; list-style: none; display: block; text-align: center; padding: 0; width: 100%; }
 .slick-dots li { position: relative; display: inline-block; height: 20px; width: 20px; margin: 0 5px; padding: 0; cursor: pointer; }

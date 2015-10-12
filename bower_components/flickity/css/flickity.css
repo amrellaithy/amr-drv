@@ -1,4 +1,4 @@
-/*! Flickity v1.0.0
+/*! Flickity v1.1.1
 http://flickity.metafizzy.co
 ---------------------------------------------- */
 
@@ -23,6 +23,8 @@ http://flickity.metafizzy.co
 /* draggable */
 
 .flickity-enabled.is-draggable {
+  -webkit-tap-highlight-color: transparent;
+          tap-highlight-color: transparent;
   -webkit-user-select: none;
      -moz-user-select: none;
       -ms-user-select: none;
@@ -43,15 +45,14 @@ http://flickity.metafizzy.co
 /* ---- previous/next buttons ---- */
 
 .flickity-prev-next-button {
-  color: #333333;
   position: absolute;
   top: 50%;
-  width: 60px;
-  height: 60px;
+  width: 44px;
+  height: 44px;
   border: none;
   border-radius: 50%;
-  background: transparent;
-  /*background: hsla(0, 0%, 100%, 0.75);*/
+  background: white;
+  background: hsla(0, 0%, 100%, 0.75);
   cursor: pointer;
   /* vertically center */
   -webkit-transform: translateY(-50%);
@@ -59,7 +60,7 @@ http://flickity.metafizzy.co
           transform: translateY(-50%);
 }
 
-.flickity-prev-next-button:hover { background: transparent; }
+.flickity-prev-next-button:hover { background: white; }
 
 .flickity-prev-next-button:focus {
   outline: none;
@@ -71,8 +72,8 @@ http://flickity.metafizzy.co
   opacity: 0.6;
 }
 
-.flickity-prev-next-button.previous { left: -70px; }
-.flickity-prev-next-button.next { right: -70px; }
+.flickity-prev-next-button.previous { left: 10px; }
+.flickity-prev-next-button.next { right: 10px; }
 /* right to left */
 .flickity-rtl .flickity-prev-next-button.previous {
   left: auto;
@@ -98,12 +99,12 @@ http://flickity.metafizzy.co
 }
 
 .flickity-prev-next-button .arrow {
-  fill: #6E5D4E;
+  fill: #333;
 }
 
 /* color & size if no SVG - IE8 and Android 2.3 */
 .flickity-prev-next-button.no-svg {
-  color: #6E5D4E;
+  color: #333;
   font-size: 26px;
 }
 
@@ -124,11 +125,11 @@ http://flickity.metafizzy.co
 
 .flickity-page-dots .dot {
   display: inline-block;
-  width: 44px;
-  height: 4px;
-  margin: 0;
+  width: 10px;
+  height: 10px;
+  margin: 0 8px;
   background: #333;
-  border-radius: 0;
+  border-radius: 50%;
   filter: alpha(opacity=25); /* IE8 */
   opacity: 0.25;
   cursor: pointer;
