@@ -118,16 +118,16 @@ http://flickity.metafizzy.co
   margin: 0;
   list-style: none;
   text-align: center;
-  line-height: 1;
+  line-height: 0.3;
 }
 
 .flickity-rtl .flickity-page-dots { direction: rtl; }
 
 .flickity-page-dots .dot {
   display: inline-block;
-  width: 10px;
-  height: 10px;
-  margin: 0 8px;
+  width: 2px;
+  height: 2px;
+  margin: 0 4px;
   background: #333;
   border-radius: 50%;
   filter: alpha(opacity=25); /* IE8 */
