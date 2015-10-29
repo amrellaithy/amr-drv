@@ -550,6 +550,72 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/assets\/img\/products\/carperfume\/C1.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 169214,
+		"inputAbbreviatedPath": "\/assets\/img\/products\/carperfume\/C1.png",
+		"outputAbbreviatedPath": "\/assets\/img\/products\/carperfume\/C1.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/products\/carperfume\/C1b.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 141009,
+		"inputAbbreviatedPath": "\/assets\/img\/products\/carperfume\/C1b.png",
+		"outputAbbreviatedPath": "\/assets\/img\/products\/carperfume\/C1b.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/products\/carperfume\/C2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 169043,
+		"inputAbbreviatedPath": "\/assets\/img\/products\/carperfume\/C2.png",
+		"outputAbbreviatedPath": "\/assets\/img\/products\/carperfume\/C2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/products\/carperfume\/C2b.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 133680,
+		"inputAbbreviatedPath": "\/assets\/img\/products\/carperfume\/C2b.png",
+		"outputAbbreviatedPath": "\/assets\/img\/products\/carperfume\/C2b.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/products\/carperfume\/C3.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 171155,
+		"inputAbbreviatedPath": "\/assets\/img\/products\/carperfume\/C3.png",
+		"outputAbbreviatedPath": "\/assets\/img\/products\/carperfume\/C3.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/products\/carperfume\/C3b.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 143854,
+		"inputAbbreviatedPath": "\/assets\/img\/products\/carperfume\/C3b.png",
+		"outputAbbreviatedPath": "\/assets\/img\/products\/carperfume\/C3b.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/products\/fragrances\/F1.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -678,6 +744,127 @@
 		"initialSize": 191669,
 		"inputAbbreviatedPath": "\/assets\/img\/products\/fragrances\/F9.png",
 		"outputAbbreviatedPath": "\/assets\/img\/products\/fragrances\/F9.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/products\/gifts\/G1.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 201024,
+		"inputAbbreviatedPath": "\/assets\/img\/products\/gifts\/G1.png",
+		"outputAbbreviatedPath": "\/assets\/img\/products\/gifts\/G1.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/products\/gifts\/G2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 548451,
+		"inputAbbreviatedPath": "\/assets\/img\/products\/gifts\/G2.png",
+		"outputAbbreviatedPath": "\/assets\/img\/products\/gifts\/G2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/products\/gifts\/G3.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 122824,
+		"inputAbbreviatedPath": "\/assets\/img\/products\/gifts\/G3.png",
+		"outputAbbreviatedPath": "\/assets\/img\/products\/gifts\/G3.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/products\/gifts\/G4.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 100476,
+		"inputAbbreviatedPath": "\/assets\/img\/products\/gifts\/G4.png",
+		"outputAbbreviatedPath": "\/assets\/img\/products\/gifts\/G4.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/products\/gifts\/G5.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 95537,
+		"inputAbbreviatedPath": "\/assets\/img\/products\/gifts\/G5.png",
+		"outputAbbreviatedPath": "\/assets\/img\/products\/gifts\/G5.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/products\/gifts\/G6.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 91947,
+		"inputAbbreviatedPath": "\/assets\/img\/products\/gifts\/G6.png",
+		"outputAbbreviatedPath": "\/assets\/img\/products\/gifts\/G6.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/products\/gifts\/G7.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 92944,
+		"inputAbbreviatedPath": "\/assets\/img\/products\/gifts\/G7.png",
+		"outputAbbreviatedPath": "\/assets\/img\/products\/gifts\/G7.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/products\/linen\/L1.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 247634,
+		"inputAbbreviatedPath": "\/assets\/img\/products\/linen\/L1.png",
+		"outputAbbreviatedPath": "\/assets\/img\/products\/linen\/L1.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/products\/linen\/L2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 80089,
+		"inputAbbreviatedPath": "\/assets\/img\/products\/linen\/L2.png",
+		"outputAbbreviatedPath": "\/assets\/img\/products\/linen\/L2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/products\/linen\/L3.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 98894,
+		"inputAbbreviatedPath": "\/assets\/img\/products\/linen\/L3.png",
+		"outputAbbreviatedPath": "\/assets\/img\/products\/linen\/L3.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/products\/linen\/L4.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 154898,
+		"inputAbbreviatedPath": "\/assets\/img\/products\/linen\/L4.png",
+		"outputAbbreviatedPath": "\/assets\/img\/products\/linen\/L4.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -7778,6 +7965,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/index2.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/index2.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/js\/app.js": {
 		"fileType": 64,
 		"ignore": 0,
@@ -7832,6 +8028,33 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/products\/carperfume.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/products\/carperfume\/cuoioclassico.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/products\/carperfume\/cuoioclassico.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/products\/carperfume\/cuoionobile.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/products\/carperfume\/cuoionobile.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/products\/carperfume\/cuoiovero.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/products\/carperfume\/cuoiovero.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -7958,6 +8181,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/products\/linenfragrances.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/products2.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/products2.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0

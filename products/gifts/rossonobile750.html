@@ -5,7 +5,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Scent Hill</title>
   <link rel="stylesheet" href="/css/app.css" />
-  <script src="../bower_components/foundation/js/vendor/modernizr.js"></script></head>
+  <script src="../bower_components/foundation/js/vendor/modernizr.js"></script>
+</head>
 <body>
   <div class="off-canvas-wrap" data-offcanvas>
     <div class="inner-wrap">
@@ -69,9 +70,9 @@
       <div class="small-10 small-offset-1 columns product_breadcrumbs">
         <nav class="breadcrumbs">
           <a href="/">Home</a>
-          <a href="products.html">Products</a>
-          <a href="#">Product Category</a>
-          <a class="current" href="#">Product</a>
+          <a href="/products.html">Products</a>
+          <a href="/products/gifts.html">Gifts</a>
+          <a class="current" href="#">Rosso Nobile 750ml</a>
         </nav>
       </div>
     </div>
@@ -79,17 +80,27 @@
 
     <div class="row">
       <div class="panel small-10 small-offset-1 columns product_view">
-
+      
         <div class="small-4 columns pimg">
-          <img src="/assets/img/vetro.jpg">
+          <ul class="product-orbit" data-orbit data-options="bullets:false; circular:false;">
+            <li>
+              <img src="/assets/img/products/gifts/G3b.png" alt="slide 1" />
+            </li>
+            <li class="active">
+              <img src="/assets/img/products/gifts/G3.png" alt="slide 2" />
+            </li>
+          </ul>
         </div>
 
         <div class="small-7 columns pinfo">
-          <h4>Product Name</h4>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+          <h4>Rosso Nobile 750ml Decanter Pack</h4>
+          <p>This special Collection includes a bottle of the precious fragrance Rosso Nobile, an exclusive decanter to air the extraordinary perfume and unique grape vine diffuser reeds.
+          <br /><br />The decanter, still manufactured by Florentine artisans, allows oxygen to fill in this unique fragrance and to relieve its best qualities.
+          <br/>The best wines of Tuscany inspired Dr. Vranjes when he created Rosso Nobile. Grapevines complete the original composition allowing the elegant aroma to fill the room.
+          </p>
 
 
-          <label>Select Size
+<!--       <label>Select Size
             <select class="size">
               <option value="0">25ml Spray</option>
               <option value="1">100ml Spray</option>
@@ -99,8 +110,7 @@
               <option value="5">2500ml</option>
               <option value="6">5000ml</option>
             </select>
-          </label>
-
+          </label> -->
 
           <!--           <div id="pprice">
             <h3>EGP 100</h3>
@@ -165,9 +175,9 @@
 
 
 
-<script src="bower_components/jquery/dist/jquery.min.js"></script>
-<script src="bower_components/foundation/js/foundation.min.js"></script>
-<script src="js/min/app-min.js"></script>
+<script src="/bower_components/jquery/dist/jquery.min.js"></script>
+<script src="/bower_components/foundation/js/foundation.min.js"></script>
+<script src="/js/min/app-min.js"></script>
 
 
 
