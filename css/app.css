@@ -4319,7 +4319,7 @@ table {
       .tabs dd > a:hover, .tabs .tab-title > a:hover {
         background-color: #82705a; }
     .tabs dd.active > a, .tabs .tab-title.active > a {
-      background-color: #645645;
+      background-color: #55493b;
       color: #d2bca0; }
   .tabs.radius dd:first-child a, .tabs.radius .tab:first-child a {
     -webkit-border-bottom-left-radius: 3px;
@@ -6761,3 +6761,9 @@ th.hide-for-touch {
   border-top: 2px solid #d2bca0;
   height: 9px;
   border-bottom: 1px solid #d2bca0; }
+
+.tabs li:first-child a {
+  border-radius: 4px 0 0 4px; }
+
+.tabs li:last-child a {
+  border-radius: 0 4px 4px 0; }

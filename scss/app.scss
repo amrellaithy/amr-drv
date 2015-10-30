@@ -513,7 +513,13 @@
     border-bottom: 1px solid $beige;
 }
 
+.tabs li:first-child a{
+	border-radius: 4px 0 0 4px;
+}
 
+.tabs li:last-child a{
+	border-radius: 0 4px 4px 0;
+}
 
 
 

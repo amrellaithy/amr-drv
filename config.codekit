@@ -229,7 +229,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/hsbathroom.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/assets\/img\/hsbathroomorig.jpg": {
 		"fileType": 16384,
@@ -262,7 +262,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/hsdecanter.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/assets\/img\/hsdecanterorig.jpg": {
 		"fileType": 16384,
@@ -394,7 +394,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/hstownorig.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/assets\/img\/instagram.png": {
 		"fileType": 32768,
@@ -759,6 +759,94 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/products\/gifts\/G10.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 185587,
+		"inputAbbreviatedPath": "\/assets\/img\/products\/gifts\/G10.png",
+		"outputAbbreviatedPath": "\/assets\/img\/products\/gifts\/G10.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/products\/gifts\/G11.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 188609,
+		"inputAbbreviatedPath": "\/assets\/img\/products\/gifts\/G11.png",
+		"outputAbbreviatedPath": "\/assets\/img\/products\/gifts\/G11.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/products\/gifts\/G12.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 164803,
+		"inputAbbreviatedPath": "\/assets\/img\/products\/gifts\/G12.png",
+		"outputAbbreviatedPath": "\/assets\/img\/products\/gifts\/G12.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/products\/gifts\/G13.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 247634,
+		"inputAbbreviatedPath": "\/assets\/img\/products\/gifts\/G13.png",
+		"outputAbbreviatedPath": "\/assets\/img\/products\/gifts\/G13.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/products\/gifts\/G14.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 100476,
+		"inputAbbreviatedPath": "\/assets\/img\/products\/gifts\/G14.png",
+		"outputAbbreviatedPath": "\/assets\/img\/products\/gifts\/G14.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/products\/gifts\/G15.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 95537,
+		"inputAbbreviatedPath": "\/assets\/img\/products\/gifts\/G15.png",
+		"outputAbbreviatedPath": "\/assets\/img\/products\/gifts\/G15.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/products\/gifts\/G16.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 91947,
+		"inputAbbreviatedPath": "\/assets\/img\/products\/gifts\/G16.png",
+		"outputAbbreviatedPath": "\/assets\/img\/products\/gifts\/G16.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/products\/gifts\/G17.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 92944,
+		"inputAbbreviatedPath": "\/assets\/img\/products\/gifts\/G17.png",
+		"outputAbbreviatedPath": "\/assets\/img\/products\/gifts\/G17.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/products\/gifts\/G2.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -777,6 +865,17 @@
 		"initialSize": 122824,
 		"inputAbbreviatedPath": "\/assets\/img\/products\/gifts\/G3.png",
 		"outputAbbreviatedPath": "\/assets\/img\/products\/gifts\/G3.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/products\/gifts\/G3b.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 427495,
+		"inputAbbreviatedPath": "\/assets\/img\/products\/gifts\/G3b.png",
+		"outputAbbreviatedPath": "\/assets\/img\/products\/gifts\/G3b.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -821,6 +920,28 @@
 		"initialSize": 92944,
 		"inputAbbreviatedPath": "\/assets\/img\/products\/gifts\/G7.png",
 		"outputAbbreviatedPath": "\/assets\/img\/products\/gifts\/G7.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/products\/gifts\/G8.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 183804,
+		"inputAbbreviatedPath": "\/assets\/img\/products\/gifts\/G8.png",
+		"outputAbbreviatedPath": "\/assets\/img\/products\/gifts\/G8.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/products\/gifts\/G9.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 196233,
+		"inputAbbreviatedPath": "\/assets\/img\/products\/gifts\/G9.png",
+		"outputAbbreviatedPath": "\/assets\/img\/products\/gifts\/G9.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -8176,11 +8297,200 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/products\/gifts\/acquagiftbox.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/products\/gifts\/acquagiftbox.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/products\/gifts\/ambracrystal.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/products\/gifts\/ambracrystal.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/products\/gifts\/ambragiftbox.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/products\/gifts\/ambragiftbox.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/products\/gifts\/calvadosgiftbox.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/products\/gifts\/calvadosgiftbox.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/products\/gifts\/calvadossnifter700.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/products\/gifts\/calvadossnifter700.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/products\/gifts\/cuoioradicacrystal.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/products\/gifts\/cuoioradicacrystal.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/products\/gifts\/cuoioradicagiftbox.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/products\/gifts\/cuoioradicagiftbox.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/products\/gifts\/duobox.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/products\/gifts\/duobox.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/products\/gifts\/gingerlimecrystal.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/products\/gifts\/gingerlimecrystal.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/products\/gifts\/gingerlimegiftbox.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/products\/gifts\/gingerlimegiftbox.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/products\/gifts\/linengiftbox.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/products\/gifts\/linengiftbox.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/products\/gifts\/magnoliaorchideacrystal.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/products\/gifts\/magnoliaorchideacrystal.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/products\/gifts\/magnoliaorchideagiftbox.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/products\/gifts\/magnoliaorchideagiftbox.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/products\/gifts\/oudnobilegiftbox.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/products\/gifts\/oudnobilegiftbox.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/products\/gifts\/rossonobile750.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/products\/gifts\/rossonobile750.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/products\/gifts\/rossonobilegiftbox.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/products\/gifts\/rossonobilegiftbox.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/products\/gifts\/vanigliamandarinogiftbox.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/products\/gifts\/vanigliamandarinogiftbox.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/products\/linenfragrances.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/products\/linenfragrances.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/products\/linenfragrances\/linengiftbox.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/products\/linenfragrances\/linengiftbox.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/products\/linenfragrances\/linenspray.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/products\/linenfragrances\/linenspray.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/products\/linenfragrances\/scentedbiscuits.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/products\/linenfragrances\/scentedbiscuits.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/products\/linenfragrances\/wardrobefresheners.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/products\/linenfragrances\/wardrobefresheners.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
