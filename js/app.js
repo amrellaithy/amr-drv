@@ -15,7 +15,9 @@ $(document).ready(function(){
     lazyLoad: true,
     lazyEffect: false,
     stagePadding: 50,
-    autoWidth: true
+    autoWidth: true,
+    autoPlay:3000,
+    stopOnHover: true
   });
 
 
