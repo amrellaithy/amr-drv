@@ -6449,12 +6449,17 @@ th.hide-for-touch {
     display: table-cell !important; }
  }
 
-.main-gallery {
+.owl-carousel {
   margin: 2.5em 0 2.5em 0;
-  border: solid 2px #d2bca0; }
+  max-width: 1190px;
+  margin-left: auto;
+  margin-right: auto; }
 
-.main-gallery img {
-  width: 100%; }
+.owl-carousel img {
+  height: auto; }
+
+.owl-wrapper-outer {
+  border: solid 2px #d2bca0; }
 
 #homepage_categories {
   clear: both;

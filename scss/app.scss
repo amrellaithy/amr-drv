@@ -40,7 +40,7 @@
 //   "foundation/components/visibility";
 
 
-// .home-slider{
+// .main-gallery{
 // 	width: 100%;
 // 	//height: auto;
 // }
@@ -49,16 +49,47 @@
 // 	width: 100%;
 // 	//height:100%;
 // }
+
 .main-gallery{
+	//margin: 0 0 0 0;
+		// border: solid 2px $beige;
+}
+
+// .owl-carousel img{
+// 	margin: 2.5em 0 2.5em 0;
+// 	width:100%;
+// }
+.owl-carousel{
 	margin: 2.5em 0 2.5em 0;
+		// border: solid 2px $beige;
+	max-width: 1190px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.owl-carousel img{
+    // display: block;
+   // width: 100%;
+    height: auto;
+}
+
+
+
+.owl-wrapper-outer{
+	
+	// margin:0 10px 0 0;
+	//height: 10%;
+	// padding: 0 5px 0 5px;
 	border: solid 2px $beige;
 }
 
-.main-gallery img {
-	width: 100%;
-	//height:100%;
-	
-}
+// .gallery{
+// 	height: 577px;
+// }
+
+// .gallery-cell{
+// 	height: 100%;
+// }
 
 #homepage_categories{
 	clear: both;
@@ -520,6 +551,10 @@
 .tabs li:last-child a{
 	border-radius: 0 4px 4px 0;
 }
+
+
+
+
 
 
 

@@ -1,37 +1,45 @@
 $(document).foundation();
 
 $(document).ready(function(){
-  // $('.home-slider').slick({
-  //   autoplay: true,
-  //   fade: true,
-  //   arrows: true,
-  //   dots: true,
-  //   pauseOnHover: false,
-  //   lazyLoad: true
+  $('.owl-carousel').owlCarousel({
+    singleItem: true,
+    autoHeight: true,
+    navigation: true,
+    navigationText: [
+      "<i class='fi-arrow-left'></i>",
+      "<i class='fi-arrow-right'></i>"
+      ],
+    pagination: false,
+    slideSpeed: 500,
+    rewindSpeed: 1700,
+    lazyLoad: true,
+    lazyEffect: false,
+    stagePadding: 50,
+    autoWidth: true
+  });
+
+
+
+// $('.main-gallery').flickity({
+//   imagesLoaded: true,
+//   pageDots: true,
+//   wrapAround: false,
+//   freescroll: false,
+//   contain: true
+// });
+
+
+
+  // $('.dropdown_button').click(function() {
+  //   $('.dropdown_menu').slideToggle(300, function() {
+  //   });
+  //   return false;
   // });
 
-
-
-$('.main-gallery').flickity({
-  imagesLoaded: true,
-  pageDots: true,
-  wrapAround: false,
-  freescroll: false,
-  contain: true
-});
-
-
-
-  $('.dropdown_button').click(function() {
-    $('.dropdown_menu').slideToggle(300, function() {
-    });
-    return false;
-  });
-
-  $.stellar({
-    horizontalScrolling: false,
-    verticalOffset: 40
-  });
+  // $.stellar({
+  //   horizontalScrolling: false,
+  //   verticalOffset: 40
+  // });
 
 
 
