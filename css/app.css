@@ -1505,7 +1505,7 @@ select {
   list-style: none;
   margin-left: 0;
   overflow: hidden;
-  padding: 0.5625rem 0.875rem 0.5625rem;
+  padding: 0.5625rem 1.25rem 0.5625rem;
   background-color: #645645;
   border-color: #5a4d3e;
   border-radius: 3px; }
@@ -4314,8 +4314,8 @@ table {
       background-color: #d2bca0;
       color: #645645;
       font-family: "Raleway", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
-      font-size: 1rem;
-      padding: 0.9375rem 1.875rem; }
+      font-size: 0.9375rem;
+      padding: 0.5rem 1rem; }
       .tabs dd > a:hover, .tabs .tab-title > a:hover {
         background-color: #82705a; }
     .tabs dd.active > a, .tabs .tab-title.active > a {
@@ -4338,7 +4338,7 @@ table {
     top: auto; }
 
 .tabs-content {
-  margin-bottom: 1.5rem;
+  margin-bottom: 0.3125rem;
   width: 100%; }
   .tabs-content:before, .tabs-content:after {
     content: " ";
@@ -4364,7 +4364,7 @@ table {
   .tabs.vertical {
     float: left;
     margin: 0;
-    margin-bottom: 1.25rem !important;
+    margin-bottom: 0.5rem !important;
     max-width: 20%;
     width: 20%; }
 
@@ -6513,8 +6513,10 @@ th.hide-for-touch {
   color: #d2bca0; }
 
 .footer_section {
-  margin-top: 2em;
-  margin-bottom: 2em; }
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 0.5em;
+  margin-right: 0.5em; }
 
 .footer .footer_section:last-child {
   text-align: right; }

@@ -39,57 +39,22 @@
 //   "foundation/components/offcanvas",
 //   "foundation/components/visibility";
 
-
-// .main-gallery{
-// 	width: 100%;
-// 	//height: auto;
-// }
-
-// .home-slider div img {
-// 	width: 100%;
-// 	//height:100%;
-// }
-
-.main-gallery{
-	//margin: 0 0 0 0;
-		// border: solid 2px $beige;
-}
-
-// .owl-carousel img{
-// 	margin: 2.5em 0 2.5em 0;
-// 	width:100%;
-// }
 .owl-carousel{
 	margin: 2.5em 0 2.5em 0;
-		// border: solid 2px $beige;
 	max-width: 1190px;
 	margin-left: auto;
 	margin-right: auto;
 }
 
 .owl-carousel img{
-    // display: block;
-   // width: 100%;
     height: auto;
 }
 
 
 
 .owl-wrapper-outer{
-	
-	// margin:0 10px 0 0;
-	//height: 10%;
-	// padding: 0 5px 0 5px;
 	border: solid 2px $beige;
 }
-
-// .gallery{
-// 	height: 577px;
-// }
-
-// .gallery-cell{
-// 	height: 100%;
-// }
 
 #homepage_categories{
 	clear: both;
@@ -155,8 +120,10 @@
 }
 
 .footer_section{
-	margin-top: 2em;
-	margin-bottom: 2em;
+	margin-top: 1em;
+	margin-bottom: 1em;
+	margin-left: 0.5em;
+	margin-right: 0.5em;
 }
 
 .footer .footer_section:last-child{
@@ -247,9 +214,6 @@
 .products_header h4{
 	color: white;
 }
-// .products_header h6{
-// 	color: white;
-// }
 
 .products_grid{
 	//background-color: #FFFAFA;
@@ -259,7 +223,6 @@
 }
 
 .products_grid li div{
-
 	//color: #54463b;
 	color: $beige;
 	text-align: center;
@@ -279,13 +242,10 @@
 	display: none;
 }
 
-
-
 .products_grid li div img{ 
 	box-shadow: 0 0 3px rgba(0, 0, 0, 0.8);
 	//height: 200px;
-	//width: 1000px;
-	
+	//width: 1000px;	
 }
 
 .products_grid li div:hover img{ 
@@ -302,10 +262,6 @@
 	margin: rem-calc(50) rem-calc(0) rem-calc(150);
 
 }
-
-// .product_view p{
-// 	color: $beige;
-// }
 
 .product_breadcrumbs{
 	margin: rem-calc(60) rem-calc(0) rem-calc(0);
@@ -416,8 +372,6 @@
 	//font-size: 18px;
 }
 
-
-
 .hscategory div{
 	overflow: hidden;
 	position: relative;
@@ -485,6 +439,9 @@
 
 .tabs{
 	text-align: center;
+	// display: table-cell;
+	// vertical-align: middle;
+	// line-height: 100%;
 	//box-shadow: 0px 1px 1px 0px rgba(0,0,0,0.4);
 	margin-top: rem-calc(30);
 	//border-radius: 80px;
