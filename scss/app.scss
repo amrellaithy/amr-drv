@@ -156,10 +156,13 @@
 	height: 15em;
 }
 
-.logo{
-	margin-top: 10px;
+.logo img{
+	// margin-top: 10px;
+	// height: 10px;
+	max-height: 200px;
 	//height: 700px;
 	//margin-right: 10px;
+	// border: 1px solid white;
 }
 
 .dropdown_menu nav {
