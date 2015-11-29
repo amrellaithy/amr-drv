@@ -1034,6 +1034,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/scenteddecorchart.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 657765,
+		"inputAbbreviatedPath": "\/assets\/img\/scenteddecorchart.png",
+		"outputAbbreviatedPath": "\/assets\/img\/scenteddecorchart.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/studio.jpg": {
 		"fileType": 16384,
 		"ignore": 0,

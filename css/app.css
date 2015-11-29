@@ -3903,7 +3903,7 @@ ul.pagination {
   width: 100%;
   z-index: 1005;
   left: 0;
-  background-color: #FFFFFF;
+  background-color: #4b4134;
   padding: 1.875rem;
   border: solid 1px #666666;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.4); }
@@ -6785,3 +6785,7 @@ th.hide-for-touch {
 
 .time {
   color: white; }
+
+img.center {
+  display: block;
+  margin: 0 auto; }
