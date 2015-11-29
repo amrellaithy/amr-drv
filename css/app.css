@@ -1512,8 +1512,8 @@ select {
   .breadcrumbs > * {
     color: #d2bca0;
     float: left;
-    font-size: 0.6875rem;
-    line-height: 0.6875rem;
+    font-size: 0.75rem;
+    line-height: 0.75rem;
     margin: 0;
     text-transform: uppercase; }
     .breadcrumbs > *:hover a, .breadcrumbs > *:focus a {
@@ -1566,7 +1566,7 @@ button, .button {
   text-decoration: none;
   display: inline-block;
   padding: 1rem 2rem 1.0625rem 2rem;
-  font-size: 1rem;
+  font-size: 1.0625rem;
   background-color: #d2bca0;
   border-color: #ba996e;
   color: #333333;
@@ -1620,13 +1620,13 @@ button, .button {
     font-size: 1.25rem; }
   button.small, .button.small {
     padding: 0.875rem 1.75rem 0.9375rem 1.75rem;
-    font-size: 0.8125rem; }
+    font-size: 0.875rem; }
   button.tiny, .button.tiny {
     padding: 0.625rem 1.25rem 0.6875rem 1.25rem;
     font-size: 0.6875rem; }
   button.expand, .button.expand {
     padding: 1rem 2rem 1.0625rem 2rem;
-    font-size: 1rem;
+    font-size: 1.0625rem;
     padding-bottom: 1.0625rem;
     padding-top: 1rem;
     padding-left: 1rem;
@@ -6774,3 +6774,6 @@ th.hide-for-touch {
 
 .tabs li:last-child a {
   border-radius: 0 4px 4px 0; }
+
+.time {
+  color: white; }

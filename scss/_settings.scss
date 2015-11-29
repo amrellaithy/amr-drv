@@ -89,7 +89,7 @@ $row-width: 100%;
 // - - - - - - - - - - - - - - - - - - - - - - - - -
 
 // We use these to define default font stacks
-$font-family-sans-serif: "PT Serif", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+$font-family-sans-serif: "PT Serif","Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
 // $font-family-serif: Georgia, Cambria, "Times New Roman", Times, serif;
 // $font-family-monospace: Consolas, "Liberation Mono", Courier, monospace;
 
@@ -410,7 +410,7 @@ $crumb-padding: rem-calc(9 20 9);
 // $crumb-radius: $global-radius;
 
 // We use these to set various text styles for breadcrumbs.
-// $crumb-font-size: rem-calc(11);
+$crumb-font-size: rem-calc(12);
 $crumb-font-color: $beige;
 $crumb-font-color-current: $white;
 // $crumb-font-color-unavailable: $aluminum;
@@ -441,8 +441,8 @@ $button-margin-bottom: rem-calc(0);
 // $button-font-color: $white;
 // $button-font-color-alt: $oil;
 // $button-font-tny: rem-calc(11);
-// $button-font-sml: rem-calc(13);
-// $button-font-med: rem-calc(16);
+$button-font-sml: rem-calc(14);
+ $button-font-med: rem-calc(17);
 // $button-font-lrg: rem-calc(20);
 // $button-font-weight: $font-weight-normal;
 // $button-font-align: center;

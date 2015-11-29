@@ -649,6 +649,39 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/products\/fragrances\/F12.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 113044,
+		"inputAbbreviatedPath": "\/assets\/img\/products\/fragrances\/F12.png",
+		"outputAbbreviatedPath": "\/assets\/img\/products\/fragrances\/F12.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/products\/fragrances\/F13.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 115539,
+		"inputAbbreviatedPath": "\/assets\/img\/products\/fragrances\/F13.png",
+		"outputAbbreviatedPath": "\/assets\/img\/products\/fragrances\/F13.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/products\/fragrances\/F14.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 161320,
+		"inputAbbreviatedPath": "\/assets\/img\/products\/fragrances\/F14.png",
+		"outputAbbreviatedPath": "\/assets\/img\/products\/fragrances\/F14.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/products\/fragrances\/F2.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -854,6 +887,17 @@
 		"initialSize": 548451,
 		"inputAbbreviatedPath": "\/assets\/img\/products\/gifts\/G2.png",
 		"outputAbbreviatedPath": "\/assets\/img\/products\/gifts\/G2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/products\/gifts\/G2b.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 548451,
+		"inputAbbreviatedPath": "\/assets\/img\/products\/gifts\/G2b.png",
+		"outputAbbreviatedPath": "\/assets\/img\/products\/gifts\/G2b.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -9001,6 +9045,24 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/products\/fragrances\/calvados.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/products\/fragrances\/calvados.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/products\/fragrances\/calvadossnifter700.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/products\/fragrances\/calvadossnifter700.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/products\/fragrances\/cuoioradica.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -9024,6 +9086,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/products\/fragrances\/greenflowers.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/products\/fragrances\/magnoliaorchidea.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/products\/fragrances\/magnoliaorchidea.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0

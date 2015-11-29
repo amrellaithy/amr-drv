@@ -2,6 +2,7 @@ $(document).foundation();
 
 $(document).ready(function(){
   $('.owl-carousel').owlCarousel({
+    rewindNav: true,
     singleItem: true,
     autoHeight: true,
     navigation: true,
@@ -11,13 +12,14 @@ $(document).ready(function(){
       ],
     pagination: false,
     slideSpeed: 500,
-    rewindSpeed: 1700,
+    rewindSpeed: 100,
     lazyLoad: true,
     lazyEffect: false,
     stagePadding: 50,
     autoWidth: true,
     autoPlay:3000,
-    stopOnHover: true
+    stopOnHover: true,
+    infinite: true
   });
 
 
