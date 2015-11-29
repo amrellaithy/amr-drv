@@ -39,12 +39,26 @@
 //   "foundation/components/offcanvas",
 //   "foundation/components/visibility";
 
-.owl-carousel{
-	margin: 2.5em 0 2.5em 0;
-	max-width: 1190px;
-	margin-left: auto;
-	margin-right: auto;
+
+@media #{$large-only} { 
+	.owl-carousel{
+		//margin: 2.5em 0 2.5em 0;
+		max-width: 847px;
+		margin-left: auto;
+		margin-right: auto;
+	}
 }
+
+
+@media #{$xlarge-up} { 
+	.owl-carousel{		
+		//margin: 2.5em 0 2.5em 0;
+		max-width: 1190px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+}
+
 
 .owl-carousel img{
     height: auto;
