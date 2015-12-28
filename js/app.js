@@ -2,24 +2,30 @@ $(document).foundation();
 
 $(document).ready(function(){
   $('.owl-carousel').owlCarousel({
-    rewindNav: true,
-    singleItem: true,
-    autoHeight: true,
-    navigation: true,
-    navigationText: [
+    items: 1,
+    loop: true,
+    nav: true,
+    dots: false,
+    // rewindNav: false,
+    // singleItem: true,
+    // autoHeight: true,
+    // navigation: true,
+    navText: [
       "<i class='fi-arrow-left'></i>",
       "<i class='fi-arrow-right'></i>"
       ],
-    pagination: false,
-    slideSpeed: 500,
-    rewindSpeed: 100,
+    // pagination: false,
+    navSpeed: 500,
+    // // rewindSpeed: 0,
     lazyLoad: true,
-    lazyEffect: false,
-    stagePadding: 50,
-    autoWidth: true,
-    autoPlay:3000,
-    stopOnHover: true,
-    infinite: true
+    // lazyEffect: false,
+    // stagePadding: 50,
+    // autoWidth: true,
+    autoplay:true,
+    autoplayTimeout: 3000,
+    autoplayHoverPause: true
+    // stopOnHover: true,
+    // infinite: true
   });
 
 

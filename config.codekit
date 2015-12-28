@@ -154,6 +154,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/green flowers.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21866,
+		"inputAbbreviatedPath": "\/assets\/img\/green flowers.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/green flowers.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/howto.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -340,6 +351,39 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
+		},
+	"\/assets\/img\/hsmilan.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2.52286e+06,
+		"inputAbbreviatedPath": "\/assets\/img\/hsmilan.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/hsmilan.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/hsmilan.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 90112,
+		"inputAbbreviatedPath": "\/assets\/img\/hsmilan.png",
+		"outputAbbreviatedPath": "\/assets\/img\/hsmilan.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/hsmilanorig.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2.52286e+06,
+		"inputAbbreviatedPath": "\/assets\/img\/hsmilanorig.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/hsmilanorig.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/assets\/img\/hsoud.jpg": {
 		"fileType": 16384,
@@ -649,13 +693,35 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/img\/products\/fragrances\/F12.png": {
+	"\/assets\/img\/products\/fragrances\/F12.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5.52454e+06,
+		"inputAbbreviatedPath": "\/assets\/img\/products\/fragrances\/F12.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/products\/fragrances\/F12.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/products\/fragrances\/F12o.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 113044,
-		"inputAbbreviatedPath": "\/assets\/img\/products\/fragrances\/F12.png",
-		"outputAbbreviatedPath": "\/assets\/img\/products\/fragrances\/F12.png",
+		"inputAbbreviatedPath": "\/assets\/img\/products\/fragrances\/F12o.png",
+		"outputAbbreviatedPath": "\/assets\/img\/products\/fragrances\/F12o.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/products\/fragrances\/F13.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18624,
+		"inputAbbreviatedPath": "\/assets\/img\/products\/fragrances\/F13.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/products\/fragrances\/F13.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -664,9 +730,31 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 115539,
+		"initialSize": 58350,
 		"inputAbbreviatedPath": "\/assets\/img\/products\/fragrances\/F13.png",
 		"outputAbbreviatedPath": "\/assets\/img\/products\/fragrances\/F13.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/products\/fragrances\/F13o.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 72106,
+		"inputAbbreviatedPath": "\/assets\/img\/products\/fragrances\/F13o.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/products\/fragrances\/F13o.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/products\/fragrances\/F13o.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 115539,
+		"inputAbbreviatedPath": "\/assets\/img\/products\/fragrances\/F13o.png",
+		"outputAbbreviatedPath": "\/assets\/img\/products\/fragrances\/F13o.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -7814,751 +7902,856 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/bower_components\/owl-carousel\/assets\/css\/bootstrapTheme.css": {
+	"\/bower_components\/owl-carousel\/assets\/oldowl.carousel.theme.css": {
 		"fileType": 16,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/bower_components\/owl-carousel\/assets\/css\/bootstrapTheme.css",
+		"inputAbbreviatedPath": "\/bower_components\/owl-carousel\/assets\/oldowl.carousel.theme.css",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/bower_components\/owl-carousel\/assets\/css\/custom.css": {
+	"\/bower_components\/owl-carousel\/assets\/owl.carousel.css": {
 		"fileType": 16,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/bower_components\/owl-carousel\/assets\/css\/custom.css",
+		"inputAbbreviatedPath": "\/bower_components\/owl-carousel\/assets\/owl.carousel.css",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/bower_components\/owl-carousel\/assets\/css\/responsive.css": {
+	"\/bower_components\/owl-carousel\/assets\/owl.carousel.min.css": {
 		"fileType": 16,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/bower_components\/owl-carousel\/assets\/css\/responsive.css",
+		"inputAbbreviatedPath": "\/bower_components\/owl-carousel\/assets\/owl.carousel.min.css",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/bower_components\/owl-carousel\/assets\/ico\/apple-touch-icon-114-precomposed.png": {
+	"\/bower_components\/owl-carousel\/assets\/owl.carousel.theme.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/owl-carousel\/assets\/owl.carousel.theme.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/bower_components\/owl-carousel\/assets\/owl.theme.default.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/owl-carousel\/assets\/owl.theme.default.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/bower_components\/owl-carousel\/assets\/owl.theme.default.min.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/owl-carousel\/assets\/owl.theme.default.min.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/bower_components\/owl-carousel\/assets\/owl.theme.green.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/owl-carousel\/assets\/owl.theme.green.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/bower_components\/owl-carousel\/assets\/owl.theme.green.min.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/owl-carousel\/assets\/owl.theme.green.min.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/bower_components\/owl-carousel\/assets\/owl.video.play.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/bower_components\/owl-carousel\/assets\/owl.video.play.png",
+		"outputAbbreviatedPath": "\/bower_components\/owl-carousel\/assets\/owl.video.play.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/bower_components\/owl-carousel\/owl.carousel.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/owl-carousel\/owl.carousel.js",
+		"outputAbbreviatedPath": "\/bower_components\/owl-carousel\/min\/owl.carousel-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/owl-carousel\/owl.carousel.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/owl-carousel\/owl.carousel.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/owl-carousel\/min\/owl.carousel.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/owl-carouselb\/assets\/css\/bootstrapTheme.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/owl-carouselb\/assets\/css\/bootstrapTheme.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/bower_components\/owl-carouselb\/assets\/css\/custom.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/owl-carouselb\/assets\/css\/custom.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/bower_components\/owl-carouselb\/assets\/css\/responsive.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/owl-carouselb\/assets\/css\/responsive.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/bower_components\/owl-carouselb\/assets\/ico\/apple-touch-icon-114-precomposed.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 5673,
-		"inputAbbreviatedPath": "\/bower_components\/owl-carousel\/assets\/ico\/apple-touch-icon-114-precomposed.png",
-		"outputAbbreviatedPath": "\/bower_components\/owl-carousel\/assets\/ico\/apple-touch-icon-114-precomposed.png",
+		"inputAbbreviatedPath": "\/bower_components\/owl-carouselb\/assets\/ico\/apple-touch-icon-114-precomposed.png",
+		"outputAbbreviatedPath": "\/bower_components\/owl-carouselb\/assets\/ico\/apple-touch-icon-114-precomposed.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/bower_components\/owl-carousel\/assets\/ico\/apple-touch-icon-144-precomposed.png": {
+	"\/bower_components\/owl-carouselb\/assets\/ico\/apple-touch-icon-144-precomposed.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 7907,
-		"inputAbbreviatedPath": "\/bower_components\/owl-carousel\/assets\/ico\/apple-touch-icon-144-precomposed.png",
-		"outputAbbreviatedPath": "\/bower_components\/owl-carousel\/assets\/ico\/apple-touch-icon-144-precomposed.png",
+		"inputAbbreviatedPath": "\/bower_components\/owl-carouselb\/assets\/ico\/apple-touch-icon-144-precomposed.png",
+		"outputAbbreviatedPath": "\/bower_components\/owl-carouselb\/assets\/ico\/apple-touch-icon-144-precomposed.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/bower_components\/owl-carousel\/assets\/ico\/apple-touch-icon-57-precomposed.png": {
+	"\/bower_components\/owl-carouselb\/assets\/ico\/apple-touch-icon-57-precomposed.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 3058,
-		"inputAbbreviatedPath": "\/bower_components\/owl-carousel\/assets\/ico\/apple-touch-icon-57-precomposed.png",
-		"outputAbbreviatedPath": "\/bower_components\/owl-carousel\/assets\/ico\/apple-touch-icon-57-precomposed.png",
+		"inputAbbreviatedPath": "\/bower_components\/owl-carouselb\/assets\/ico\/apple-touch-icon-57-precomposed.png",
+		"outputAbbreviatedPath": "\/bower_components\/owl-carouselb\/assets\/ico\/apple-touch-icon-57-precomposed.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/bower_components\/owl-carousel\/assets\/ico\/apple-touch-icon-72-precomposed.png": {
+	"\/bower_components\/owl-carouselb\/assets\/ico\/apple-touch-icon-72-precomposed.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 3942,
-		"inputAbbreviatedPath": "\/bower_components\/owl-carousel\/assets\/ico\/apple-touch-icon-72-precomposed.png",
-		"outputAbbreviatedPath": "\/bower_components\/owl-carousel\/assets\/ico\/apple-touch-icon-72-precomposed.png",
+		"inputAbbreviatedPath": "\/bower_components\/owl-carouselb\/assets\/ico\/apple-touch-icon-72-precomposed.png",
+		"outputAbbreviatedPath": "\/bower_components\/owl-carouselb\/assets\/ico\/apple-touch-icon-72-precomposed.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/bower_components\/owl-carousel\/assets\/ico\/favicon.png": {
+	"\/bower_components\/owl-carouselb\/assets\/ico\/favicon.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 2165,
-		"inputAbbreviatedPath": "\/bower_components\/owl-carousel\/assets\/ico\/favicon.png",
-		"outputAbbreviatedPath": "\/bower_components\/owl-carousel\/assets\/ico\/favicon.png",
+		"inputAbbreviatedPath": "\/bower_components\/owl-carouselb\/assets\/ico\/favicon.png",
+		"outputAbbreviatedPath": "\/bower_components\/owl-carouselb\/assets\/ico\/favicon.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/bower_components\/owl-carousel\/assets\/img\/demo-slides\/controls.png": {
+	"\/bower_components\/owl-carouselb\/assets\/img\/demo-slides\/controls.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 3126,
-		"inputAbbreviatedPath": "\/bower_components\/owl-carousel\/assets\/img\/demo-slides\/controls.png",
-		"outputAbbreviatedPath": "\/bower_components\/owl-carousel\/assets\/img\/demo-slides\/controls.png",
+		"inputAbbreviatedPath": "\/bower_components\/owl-carouselb\/assets\/img\/demo-slides\/controls.png",
+		"outputAbbreviatedPath": "\/bower_components\/owl-carouselb\/assets\/img\/demo-slides\/controls.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/bower_components\/owl-carousel\/assets\/img\/demo-slides\/css3.png": {
+	"\/bower_components\/owl-carouselb\/assets\/img\/demo-slides\/css3.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 7776,
-		"inputAbbreviatedPath": "\/bower_components\/owl-carousel\/assets\/img\/demo-slides\/css3.png",
-		"outputAbbreviatedPath": "\/bower_components\/owl-carousel\/assets\/img\/demo-slides\/css3.png",
+		"inputAbbreviatedPath": "\/bower_components\/owl-carouselb\/assets\/img\/demo-slides\/css3.png",
+		"outputAbbreviatedPath": "\/bower_components\/owl-carouselb\/assets\/img\/demo-slides\/css3.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/bower_components\/owl-carousel\/assets\/img\/demo-slides\/feather.png": {
+	"\/bower_components\/owl-carouselb\/assets\/img\/demo-slides\/feather.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 3913,
-		"inputAbbreviatedPath": "\/bower_components\/owl-carousel\/assets\/img\/demo-slides\/feather.png",
-		"outputAbbreviatedPath": "\/bower_components\/owl-carousel\/assets\/img\/demo-slides\/feather.png",
+		"inputAbbreviatedPath": "\/bower_components\/owl-carouselb\/assets\/img\/demo-slides\/feather.png",
+		"outputAbbreviatedPath": "\/bower_components\/owl-carouselb\/assets\/img\/demo-slides\/feather.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/bower_components\/owl-carousel\/assets\/img\/demo-slides\/grab.png": {
+	"\/bower_components\/owl-carouselb\/assets\/img\/demo-slides\/grab.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 3339,
-		"inputAbbreviatedPath": "\/bower_components\/owl-carousel\/assets\/img\/demo-slides\/grab.png",
-		"outputAbbreviatedPath": "\/bower_components\/owl-carousel\/assets\/img\/demo-slides\/grab.png",
+		"inputAbbreviatedPath": "\/bower_components\/owl-carouselb\/assets\/img\/demo-slides\/grab.png",
+		"outputAbbreviatedPath": "\/bower_components\/owl-carouselb\/assets\/img\/demo-slides\/grab.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/bower_components\/owl-carousel\/assets\/img\/demo-slides\/modern.png": {
+	"\/bower_components\/owl-carouselb\/assets\/img\/demo-slides\/modern.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 8114,
-		"inputAbbreviatedPath": "\/bower_components\/owl-carousel\/assets\/img\/demo-slides\/modern.png",
-		"outputAbbreviatedPath": "\/bower_components\/owl-carousel\/assets\/img\/demo-slides\/modern.png",
+		"inputAbbreviatedPath": "\/bower_components\/owl-carouselb\/assets\/img\/demo-slides\/modern.png",
+		"outputAbbreviatedPath": "\/bower_components\/owl-carouselb\/assets\/img\/demo-slides\/modern.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/bower_components\/owl-carousel\/assets\/img\/demo-slides\/multi.png": {
+	"\/bower_components\/owl-carouselb\/assets\/img\/demo-slides\/multi.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 2459,
-		"inputAbbreviatedPath": "\/bower_components\/owl-carousel\/assets\/img\/demo-slides\/multi.png",
-		"outputAbbreviatedPath": "\/bower_components\/owl-carousel\/assets\/img\/demo-slides\/multi.png",
+		"inputAbbreviatedPath": "\/bower_components\/owl-carouselb\/assets\/img\/demo-slides\/multi.png",
+		"outputAbbreviatedPath": "\/bower_components\/owl-carouselb\/assets\/img\/demo-slides\/multi.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/bower_components\/owl-carousel\/assets\/img\/demo-slides\/responsive.png": {
+	"\/bower_components\/owl-carouselb\/assets\/img\/demo-slides\/responsive.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 2156,
-		"inputAbbreviatedPath": "\/bower_components\/owl-carousel\/assets\/img\/demo-slides\/responsive.png",
-		"outputAbbreviatedPath": "\/bower_components\/owl-carousel\/assets\/img\/demo-slides\/responsive.png",
+		"inputAbbreviatedPath": "\/bower_components\/owl-carouselb\/assets\/img\/demo-slides\/responsive.png",
+		"outputAbbreviatedPath": "\/bower_components\/owl-carouselb\/assets\/img\/demo-slides\/responsive.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/bower_components\/owl-carousel\/assets\/img\/demo-slides\/tons.png": {
+	"\/bower_components\/owl-carouselb\/assets\/img\/demo-slides\/tons.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 3726,
-		"inputAbbreviatedPath": "\/bower_components\/owl-carousel\/assets\/img\/demo-slides\/tons.png",
-		"outputAbbreviatedPath": "\/bower_components\/owl-carousel\/assets\/img\/demo-slides\/tons.png",
+		"inputAbbreviatedPath": "\/bower_components\/owl-carouselb\/assets\/img\/demo-slides\/tons.png",
+		"outputAbbreviatedPath": "\/bower_components\/owl-carouselb\/assets\/img\/demo-slides\/tons.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/bower_components\/owl-carousel\/assets\/img\/demo-slides\/touch.png": {
+	"\/bower_components\/owl-carouselb\/assets\/img\/demo-slides\/touch.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 3320,
-		"inputAbbreviatedPath": "\/bower_components\/owl-carousel\/assets\/img\/demo-slides\/touch.png",
-		"outputAbbreviatedPath": "\/bower_components\/owl-carousel\/assets\/img\/demo-slides\/touch.png",
+		"inputAbbreviatedPath": "\/bower_components\/owl-carouselb\/assets\/img\/demo-slides\/touch.png",
+		"outputAbbreviatedPath": "\/bower_components\/owl-carouselb\/assets\/img\/demo-slides\/touch.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/bower_components\/owl-carousel\/assets\/img\/demo-slides\/zombie.png": {
+	"\/bower_components\/owl-carouselb\/assets\/img\/demo-slides\/zombie.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 5840,
-		"inputAbbreviatedPath": "\/bower_components\/owl-carousel\/assets\/img\/demo-slides\/zombie.png",
-		"outputAbbreviatedPath": "\/bower_components\/owl-carousel\/assets\/img\/demo-slides\/zombie.png",
+		"inputAbbreviatedPath": "\/bower_components\/owl-carouselb\/assets\/img\/demo-slides\/zombie.png",
+		"outputAbbreviatedPath": "\/bower_components\/owl-carouselb\/assets\/img\/demo-slides\/zombie.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/bower_components\/owl-carousel\/assets\/img\/glyphicons-halflings-green.png": {
+	"\/bower_components\/owl-carouselb\/assets\/img\/glyphicons-halflings-green.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 15738,
-		"inputAbbreviatedPath": "\/bower_components\/owl-carousel\/assets\/img\/glyphicons-halflings-green.png",
-		"outputAbbreviatedPath": "\/bower_components\/owl-carousel\/assets\/img\/glyphicons-halflings-green.png",
+		"inputAbbreviatedPath": "\/bower_components\/owl-carouselb\/assets\/img\/glyphicons-halflings-green.png",
+		"outputAbbreviatedPath": "\/bower_components\/owl-carouselb\/assets\/img\/glyphicons-halflings-green.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/bower_components\/owl-carousel\/assets\/img\/glyphicons-halflings-white.png": {
+	"\/bower_components\/owl-carouselb\/assets\/img\/glyphicons-halflings-white.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 8777,
-		"inputAbbreviatedPath": "\/bower_components\/owl-carousel\/assets\/img\/glyphicons-halflings-white.png",
-		"outputAbbreviatedPath": "\/bower_components\/owl-carousel\/assets\/img\/glyphicons-halflings-white.png",
+		"inputAbbreviatedPath": "\/bower_components\/owl-carouselb\/assets\/img\/glyphicons-halflings-white.png",
+		"outputAbbreviatedPath": "\/bower_components\/owl-carouselb\/assets\/img\/glyphicons-halflings-white.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/bower_components\/owl-carousel\/assets\/img\/glyphicons-halflings.png": {
+	"\/bower_components\/owl-carouselb\/assets\/img\/glyphicons-halflings.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 12799,
-		"inputAbbreviatedPath": "\/bower_components\/owl-carousel\/assets\/img\/glyphicons-halflings.png",
-		"outputAbbreviatedPath": "\/bower_components\/owl-carousel\/assets\/img\/glyphicons-halflings.png",
+		"inputAbbreviatedPath": "\/bower_components\/owl-carouselb\/assets\/img\/glyphicons-halflings.png",
+		"outputAbbreviatedPath": "\/bower_components\/owl-carouselb\/assets\/img\/glyphicons-halflings.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/bower_components\/owl-carousel\/assets\/img\/owl-logo.png": {
+	"\/bower_components\/owl-carouselb\/assets\/img\/owl-logo.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 8874,
-		"inputAbbreviatedPath": "\/bower_components\/owl-carousel\/assets\/img\/owl-logo.png",
-		"outputAbbreviatedPath": "\/bower_components\/owl-carousel\/assets\/img\/owl-logo.png",
+		"inputAbbreviatedPath": "\/bower_components\/owl-carouselb\/assets\/img\/owl-logo.png",
+		"outputAbbreviatedPath": "\/bower_components\/owl-carouselb\/assets\/img\/owl-logo.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/bower_components\/owl-carousel\/assets\/js\/application.js": {
+	"\/bower_components\/owl-carouselb\/assets\/js\/application.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/bower_components\/owl-carousel\/assets\/js\/application.js",
-		"outputAbbreviatedPath": "\/bower_components\/owl-carousel\/assets\/js\/min\/application-min.js",
+		"inputAbbreviatedPath": "\/bower_components\/owl-carouselb\/assets\/js\/application.js",
+		"outputAbbreviatedPath": "\/bower_components\/owl-carouselb\/assets\/js\/min\/application-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/bower_components\/owl-carousel\/assets\/js\/bootstrap-collapse.js": {
+	"\/bower_components\/owl-carouselb\/assets\/js\/bootstrap-collapse.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/bower_components\/owl-carousel\/assets\/js\/bootstrap-collapse.js",
-		"outputAbbreviatedPath": "\/bower_components\/owl-carousel\/assets\/js\/min\/bootstrap-collapse-min.js",
+		"inputAbbreviatedPath": "\/bower_components\/owl-carouselb\/assets\/js\/bootstrap-collapse.js",
+		"outputAbbreviatedPath": "\/bower_components\/owl-carouselb\/assets\/js\/min\/bootstrap-collapse-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/bower_components\/owl-carousel\/assets\/js\/bootstrap-tab.js": {
+	"\/bower_components\/owl-carouselb\/assets\/js\/bootstrap-tab.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/bower_components\/owl-carousel\/assets\/js\/bootstrap-tab.js",
-		"outputAbbreviatedPath": "\/bower_components\/owl-carousel\/assets\/js\/min\/bootstrap-tab-min.js",
+		"inputAbbreviatedPath": "\/bower_components\/owl-carouselb\/assets\/js\/bootstrap-tab.js",
+		"outputAbbreviatedPath": "\/bower_components\/owl-carouselb\/assets\/js\/min\/bootstrap-tab-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/bower_components\/owl-carousel\/assets\/js\/bootstrap-transition.js": {
+	"\/bower_components\/owl-carouselb\/assets\/js\/bootstrap-transition.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/bower_components\/owl-carousel\/assets\/js\/bootstrap-transition.js",
-		"outputAbbreviatedPath": "\/bower_components\/owl-carousel\/assets\/js\/min\/bootstrap-transition-min.js",
+		"inputAbbreviatedPath": "\/bower_components\/owl-carouselb\/assets\/js\/bootstrap-transition.js",
+		"outputAbbreviatedPath": "\/bower_components\/owl-carouselb\/assets\/js\/min\/bootstrap-transition-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/bower_components\/owl-carousel\/assets\/js\/google-code-prettify\/prettify.css": {
+	"\/bower_components\/owl-carouselb\/assets\/js\/google-code-prettify\/prettify.css": {
 		"fileType": 16,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/bower_components\/owl-carousel\/assets\/js\/google-code-prettify\/prettify.css",
+		"inputAbbreviatedPath": "\/bower_components\/owl-carouselb\/assets\/js\/google-code-prettify\/prettify.css",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/bower_components\/owl-carousel\/assets\/js\/google-code-prettify\/prettify.js": {
+	"\/bower_components\/owl-carouselb\/assets\/js\/google-code-prettify\/prettify.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/bower_components\/owl-carousel\/assets\/js\/google-code-prettify\/prettify.js",
-		"outputAbbreviatedPath": "\/bower_components\/owl-carousel\/assets\/js\/google-code-prettify\/min\/prettify-min.js",
+		"inputAbbreviatedPath": "\/bower_components\/owl-carouselb\/assets\/js\/google-code-prettify\/prettify.js",
+		"outputAbbreviatedPath": "\/bower_components\/owl-carouselb\/assets\/js\/google-code-prettify\/min\/prettify-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/bower_components\/owl-carousel\/assets\/js\/google-code-prettify\/run_prettify.js": {
+	"\/bower_components\/owl-carouselb\/assets\/js\/google-code-prettify\/run_prettify.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/bower_components\/owl-carousel\/assets\/js\/google-code-prettify\/run_prettify.js",
-		"outputAbbreviatedPath": "\/bower_components\/owl-carousel\/assets\/js\/google-code-prettify\/min\/run_prettify-min.js",
+		"inputAbbreviatedPath": "\/bower_components\/owl-carouselb\/assets\/js\/google-code-prettify\/run_prettify.js",
+		"outputAbbreviatedPath": "\/bower_components\/owl-carouselb\/assets\/js\/google-code-prettify\/min\/run_prettify-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/bower_components\/owl-carousel\/assets\/js\/jquery-1.9.1.min.js": {
+	"\/bower_components\/owl-carouselb\/assets\/js\/jquery-1.9.1.min.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/bower_components\/owl-carousel\/assets\/js\/jquery-1.9.1.min.js",
-		"outputAbbreviatedPath": "\/bower_components\/owl-carousel\/assets\/js\/min\/jquery-1.9.1.min-min.js",
+		"inputAbbreviatedPath": "\/bower_components\/owl-carouselb\/assets\/js\/jquery-1.9.1.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/owl-carouselb\/assets\/js\/min\/jquery-1.9.1.min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/bower_components\/owl-carousel\/changelog.html": {
+	"\/bower_components\/owl-carouselb\/changelog.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/bower_components\/owl-carousel\/changelog.html",
+		"inputAbbreviatedPath": "\/bower_components\/owl-carouselb\/changelog.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/bower_components\/owl-carousel\/demos\/assets\/fullimage1.jpg": {
+	"\/bower_components\/owl-carouselb\/demos\/assets\/fullimage1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 163675,
-		"inputAbbreviatedPath": "\/bower_components\/owl-carousel\/demos\/assets\/fullimage1.jpg",
-		"outputAbbreviatedPath": "\/bower_components\/owl-carousel\/demos\/assets\/fullimage1.jpg",
+		"inputAbbreviatedPath": "\/bower_components\/owl-carouselb\/demos\/assets\/fullimage1.jpg",
+		"outputAbbreviatedPath": "\/bower_components\/owl-carouselb\/demos\/assets\/fullimage1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/bower_components\/owl-carousel\/demos\/assets\/fullimage2.jpg": {
+	"\/bower_components\/owl-carouselb\/demos\/assets\/fullimage2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 149197,
-		"inputAbbreviatedPath": "\/bower_components\/owl-carousel\/demos\/assets\/fullimage2.jpg",
-		"outputAbbreviatedPath": "\/bower_components\/owl-carousel\/demos\/assets\/fullimage2.jpg",
+		"inputAbbreviatedPath": "\/bower_components\/owl-carouselb\/demos\/assets\/fullimage2.jpg",
+		"outputAbbreviatedPath": "\/bower_components\/owl-carouselb\/demos\/assets\/fullimage2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/bower_components\/owl-carousel\/demos\/assets\/fullimage3.jpg": {
+	"\/bower_components\/owl-carouselb\/demos\/assets\/fullimage3.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 155634,
-		"inputAbbreviatedPath": "\/bower_components\/owl-carousel\/demos\/assets\/fullimage3.jpg",
-		"outputAbbreviatedPath": "\/bower_components\/owl-carousel\/demos\/assets\/fullimage3.jpg",
+		"inputAbbreviatedPath": "\/bower_components\/owl-carouselb\/demos\/assets\/fullimage3.jpg",
+		"outputAbbreviatedPath": "\/bower_components\/owl-carouselb\/demos\/assets\/fullimage3.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/bower_components\/owl-carousel\/demos\/assets\/fullimage4.jpg": {
+	"\/bower_components\/owl-carouselb\/demos\/assets\/fullimage4.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 50895,
-		"inputAbbreviatedPath": "\/bower_components\/owl-carousel\/demos\/assets\/fullimage4.jpg",
-		"outputAbbreviatedPath": "\/bower_components\/owl-carousel\/demos\/assets\/fullimage4.jpg",
+		"inputAbbreviatedPath": "\/bower_components\/owl-carouselb\/demos\/assets\/fullimage4.jpg",
+		"outputAbbreviatedPath": "\/bower_components\/owl-carouselb\/demos\/assets\/fullimage4.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/bower_components\/owl-carousel\/demos\/assets\/fullimage5.jpg": {
+	"\/bower_components\/owl-carouselb\/demos\/assets\/fullimage5.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 106252,
-		"inputAbbreviatedPath": "\/bower_components\/owl-carousel\/demos\/assets\/fullimage5.jpg",
-		"outputAbbreviatedPath": "\/bower_components\/owl-carousel\/demos\/assets\/fullimage5.jpg",
+		"inputAbbreviatedPath": "\/bower_components\/owl-carouselb\/demos\/assets\/fullimage5.jpg",
+		"outputAbbreviatedPath": "\/bower_components\/owl-carouselb\/demos\/assets\/fullimage5.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/bower_components\/owl-carousel\/demos\/assets\/fullimage6.jpg": {
+	"\/bower_components\/owl-carouselb\/demos\/assets\/fullimage6.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 119136,
-		"inputAbbreviatedPath": "\/bower_components\/owl-carousel\/demos\/assets\/fullimage6.jpg",
-		"outputAbbreviatedPath": "\/bower_components\/owl-carousel\/demos\/assets\/fullimage6.jpg",
+		"inputAbbreviatedPath": "\/bower_components\/owl-carouselb\/demos\/assets\/fullimage6.jpg",
+		"outputAbbreviatedPath": "\/bower_components\/owl-carouselb\/demos\/assets\/fullimage6.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/bower_components\/owl-carousel\/demos\/assets\/fullimage7.jpg": {
+	"\/bower_components\/owl-carouselb\/demos\/assets\/fullimage7.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 104748,
-		"inputAbbreviatedPath": "\/bower_components\/owl-carousel\/demos\/assets\/fullimage7.jpg",
-		"outputAbbreviatedPath": "\/bower_components\/owl-carousel\/demos\/assets\/fullimage7.jpg",
+		"inputAbbreviatedPath": "\/bower_components\/owl-carouselb\/demos\/assets\/fullimage7.jpg",
+		"outputAbbreviatedPath": "\/bower_components\/owl-carouselb\/demos\/assets\/fullimage7.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/bower_components\/owl-carousel\/demos\/assets\/owl1.jpg": {
+	"\/bower_components\/owl-carouselb\/demos\/assets\/owl1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 27090,
-		"inputAbbreviatedPath": "\/bower_components\/owl-carousel\/demos\/assets\/owl1.jpg",
-		"outputAbbreviatedPath": "\/bower_components\/owl-carousel\/demos\/assets\/owl1.jpg",
+		"inputAbbreviatedPath": "\/bower_components\/owl-carouselb\/demos\/assets\/owl1.jpg",
+		"outputAbbreviatedPath": "\/bower_components\/owl-carouselb\/demos\/assets\/owl1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/bower_components\/owl-carousel\/demos\/assets\/owl2.jpg": {
+	"\/bower_components\/owl-carouselb\/demos\/assets\/owl2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 58799,
-		"inputAbbreviatedPath": "\/bower_components\/owl-carousel\/demos\/assets\/owl2.jpg",
-		"outputAbbreviatedPath": "\/bower_components\/owl-carousel\/demos\/assets\/owl2.jpg",
+		"inputAbbreviatedPath": "\/bower_components\/owl-carouselb\/demos\/assets\/owl2.jpg",
+		"outputAbbreviatedPath": "\/bower_components\/owl-carouselb\/demos\/assets\/owl2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/bower_components\/owl-carousel\/demos\/assets\/owl3.jpg": {
+	"\/bower_components\/owl-carouselb\/demos\/assets\/owl3.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 37374,
-		"inputAbbreviatedPath": "\/bower_components\/owl-carousel\/demos\/assets\/owl3.jpg",
-		"outputAbbreviatedPath": "\/bower_components\/owl-carousel\/demos\/assets\/owl3.jpg",
+		"inputAbbreviatedPath": "\/bower_components\/owl-carouselb\/demos\/assets\/owl3.jpg",
+		"outputAbbreviatedPath": "\/bower_components\/owl-carouselb\/demos\/assets\/owl3.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/bower_components\/owl-carousel\/demos\/assets\/owl4.jpg": {
+	"\/bower_components\/owl-carouselb\/demos\/assets\/owl4.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 27756,
-		"inputAbbreviatedPath": "\/bower_components\/owl-carousel\/demos\/assets\/owl4.jpg",
-		"outputAbbreviatedPath": "\/bower_components\/owl-carousel\/demos\/assets\/owl4.jpg",
+		"inputAbbreviatedPath": "\/bower_components\/owl-carouselb\/demos\/assets\/owl4.jpg",
+		"outputAbbreviatedPath": "\/bower_components\/owl-carouselb\/demos\/assets\/owl4.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/bower_components\/owl-carousel\/demos\/assets\/owl5.jpg": {
+	"\/bower_components\/owl-carouselb\/demos\/assets\/owl5.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 34388,
-		"inputAbbreviatedPath": "\/bower_components\/owl-carousel\/demos\/assets\/owl5.jpg",
-		"outputAbbreviatedPath": "\/bower_components\/owl-carousel\/demos\/assets\/owl5.jpg",
+		"inputAbbreviatedPath": "\/bower_components\/owl-carouselb\/demos\/assets\/owl5.jpg",
+		"outputAbbreviatedPath": "\/bower_components\/owl-carouselb\/demos\/assets\/owl5.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/bower_components\/owl-carousel\/demos\/assets\/owl6.jpg": {
+	"\/bower_components\/owl-carouselb\/demos\/assets\/owl6.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 20136,
-		"inputAbbreviatedPath": "\/bower_components\/owl-carousel\/demos\/assets\/owl6.jpg",
-		"outputAbbreviatedPath": "\/bower_components\/owl-carousel\/demos\/assets\/owl6.jpg",
+		"inputAbbreviatedPath": "\/bower_components\/owl-carouselb\/demos\/assets\/owl6.jpg",
+		"outputAbbreviatedPath": "\/bower_components\/owl-carouselb\/demos\/assets\/owl6.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/bower_components\/owl-carousel\/demos\/assets\/owl7.jpg": {
+	"\/bower_components\/owl-carouselb\/demos\/assets\/owl7.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 28345,
-		"inputAbbreviatedPath": "\/bower_components\/owl-carousel\/demos\/assets\/owl7.jpg",
-		"outputAbbreviatedPath": "\/bower_components\/owl-carousel\/demos\/assets\/owl7.jpg",
+		"inputAbbreviatedPath": "\/bower_components\/owl-carouselb\/demos\/assets\/owl7.jpg",
+		"outputAbbreviatedPath": "\/bower_components\/owl-carouselb\/demos\/assets\/owl7.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/bower_components\/owl-carousel\/demos\/assets\/owl8.jpg": {
+	"\/bower_components\/owl-carouselb\/demos\/assets\/owl8.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 21166,
-		"inputAbbreviatedPath": "\/bower_components\/owl-carousel\/demos\/assets\/owl8.jpg",
-		"outputAbbreviatedPath": "\/bower_components\/owl-carousel\/demos\/assets\/owl8.jpg",
+		"inputAbbreviatedPath": "\/bower_components\/owl-carouselb\/demos\/assets\/owl8.jpg",
+		"outputAbbreviatedPath": "\/bower_components\/owl-carouselb\/demos\/assets\/owl8.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/bower_components\/owl-carousel\/demos\/autoHeight.html": {
+	"\/bower_components\/owl-carouselb\/demos\/autoHeight.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/bower_components\/owl-carousel\/demos\/autoHeight.html",
+		"inputAbbreviatedPath": "\/bower_components\/owl-carouselb\/demos\/autoHeight.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/bower_components\/owl-carousel\/demos\/click.html": {
+	"\/bower_components\/owl-carouselb\/demos\/click.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/bower_components\/owl-carousel\/demos\/click.html",
+		"inputAbbreviatedPath": "\/bower_components\/owl-carouselb\/demos\/click.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/bower_components\/owl-carousel\/demos\/custom.html": {
+	"\/bower_components\/owl-carouselb\/demos\/custom.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/bower_components\/owl-carousel\/demos\/custom.html",
+		"inputAbbreviatedPath": "\/bower_components\/owl-carouselb\/demos\/custom.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/bower_components\/owl-carousel\/demos\/customJson.html": {
+	"\/bower_components\/owl-carouselb\/demos\/customJson.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/bower_components\/owl-carousel\/demos\/customJson.html",
+		"inputAbbreviatedPath": "\/bower_components\/owl-carouselb\/demos\/customJson.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/bower_components\/owl-carousel\/demos\/full.html": {
+	"\/bower_components\/owl-carouselb\/demos\/full.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/bower_components\/owl-carousel\/demos\/full.html",
+		"inputAbbreviatedPath": "\/bower_components\/owl-carouselb\/demos\/full.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/bower_components\/owl-carousel\/demos\/images.html": {
+	"\/bower_components\/owl-carouselb\/demos\/images.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/bower_components\/owl-carousel\/demos\/images.html",
+		"inputAbbreviatedPath": "\/bower_components\/owl-carouselb\/demos\/images.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/bower_components\/owl-carousel\/demos\/itemsCustom.html": {
+	"\/bower_components\/owl-carouselb\/demos\/itemsCustom.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/bower_components\/owl-carousel\/demos\/itemsCustom.html",
+		"inputAbbreviatedPath": "\/bower_components\/owl-carouselb\/demos\/itemsCustom.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/bower_components\/owl-carousel\/demos\/json.html": {
+	"\/bower_components\/owl-carouselb\/demos\/json.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/bower_components\/owl-carousel\/demos\/json.html",
+		"inputAbbreviatedPath": "\/bower_components\/owl-carouselb\/demos\/json.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/bower_components\/owl-carousel\/demos\/lazyLoad.html": {
+	"\/bower_components\/owl-carouselb\/demos\/lazyLoad.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/bower_components\/owl-carousel\/demos\/lazyLoad.html",
+		"inputAbbreviatedPath": "\/bower_components\/owl-carouselb\/demos\/lazyLoad.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/bower_components\/owl-carousel\/demos\/manipulations.html": {
+	"\/bower_components\/owl-carouselb\/demos\/manipulations.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/bower_components\/owl-carousel\/demos\/manipulations.html",
+		"inputAbbreviatedPath": "\/bower_components\/owl-carouselb\/demos\/manipulations.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/bower_components\/owl-carousel\/demos\/navOnTop.html": {
+	"\/bower_components\/owl-carouselb\/demos\/navOnTop.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/bower_components\/owl-carousel\/demos\/navOnTop.html",
+		"inputAbbreviatedPath": "\/bower_components\/owl-carouselb\/demos\/navOnTop.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/bower_components\/owl-carousel\/demos\/navOnTop2.html": {
+	"\/bower_components\/owl-carouselb\/demos\/navOnTop2.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/bower_components\/owl-carousel\/demos\/navOnTop2.html",
+		"inputAbbreviatedPath": "\/bower_components\/owl-carouselb\/demos\/navOnTop2.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/bower_components\/owl-carousel\/demos\/one.html": {
+	"\/bower_components\/owl-carouselb\/demos\/one.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/bower_components\/owl-carousel\/demos\/one.html",
+		"inputAbbreviatedPath": "\/bower_components\/owl-carouselb\/demos\/one.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/bower_components\/owl-carousel\/demos\/owlStatus.html": {
+	"\/bower_components\/owl-carouselb\/demos\/owlStatus.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/bower_components\/owl-carousel\/demos\/owlStatus.html",
+		"inputAbbreviatedPath": "\/bower_components\/owl-carouselb\/demos\/owlStatus.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/bower_components\/owl-carousel\/demos\/progressBar.html": {
+	"\/bower_components\/owl-carouselb\/demos\/progressBar.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/bower_components\/owl-carousel\/demos\/progressBar.html",
+		"inputAbbreviatedPath": "\/bower_components\/owl-carouselb\/demos\/progressBar.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/bower_components\/owl-carousel\/demos\/randomOrder.html": {
+	"\/bower_components\/owl-carouselb\/demos\/randomOrder.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/bower_components\/owl-carousel\/demos\/randomOrder.html",
+		"inputAbbreviatedPath": "\/bower_components\/owl-carouselb\/demos\/randomOrder.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/bower_components\/owl-carousel\/demos\/scaleup.html": {
+	"\/bower_components\/owl-carouselb\/demos\/scaleup.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/bower_components\/owl-carousel\/demos\/scaleup.html",
+		"inputAbbreviatedPath": "\/bower_components\/owl-carouselb\/demos\/scaleup.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/bower_components\/owl-carousel\/demos\/sync.html": {
+	"\/bower_components\/owl-carouselb\/demos\/sync.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/bower_components\/owl-carousel\/demos\/sync.html",
+		"inputAbbreviatedPath": "\/bower_components\/owl-carouselb\/demos\/sync.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/bower_components\/owl-carousel\/demos\/transitions.html": {
+	"\/bower_components\/owl-carouselb\/demos\/transitions.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/bower_components\/owl-carousel\/demos\/transitions.html",
+		"inputAbbreviatedPath": "\/bower_components\/owl-carouselb\/demos\/transitions.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/bower_components\/owl-carousel\/index.html": {
+	"\/bower_components\/owl-carouselb\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/bower_components\/owl-carousel\/index.html",
+		"inputAbbreviatedPath": "\/bower_components\/owl-carouselb\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/bower_components\/owl-carousel\/owl-carousel\/grabbing.png": {
+	"\/bower_components\/owl-carouselb\/owl-carousel\/grabbing.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 116,
-		"inputAbbreviatedPath": "\/bower_components\/owl-carousel\/owl-carousel\/grabbing.png",
-		"outputAbbreviatedPath": "\/bower_components\/owl-carousel\/owl-carousel\/grabbing.png",
+		"inputAbbreviatedPath": "\/bower_components\/owl-carouselb\/owl-carousel\/grabbing.png",
+		"outputAbbreviatedPath": "\/bower_components\/owl-carouselb\/owl-carousel\/grabbing.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/bower_components\/owl-carousel\/owl-carousel\/owl.carousel.css": {
+	"\/bower_components\/owl-carouselb\/owl-carousel\/owl.carousel.css": {
 		"fileType": 16,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/bower_components\/owl-carousel\/owl-carousel\/owl.carousel.css",
+		"inputAbbreviatedPath": "\/bower_components\/owl-carouselb\/owl-carousel\/owl.carousel.css",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/bower_components\/owl-carousel\/owl-carousel\/owl.carousel.js": {
+	"\/bower_components\/owl-carouselb\/owl-carousel\/owl.carousel.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/bower_components\/owl-carousel\/owl-carousel\/owl.carousel.js",
-		"outputAbbreviatedPath": "\/bower_components\/owl-carousel\/owl-carousel\/min\/owl.carousel-min.js",
+		"inputAbbreviatedPath": "\/bower_components\/owl-carouselb\/owl-carousel\/owl.carousel.js",
+		"outputAbbreviatedPath": "\/bower_components\/owl-carouselb\/owl-carousel\/min\/owl.carousel-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/bower_components\/owl-carousel\/owl-carousel\/owl.carousel.min.js": {
+	"\/bower_components\/owl-carouselb\/owl-carousel\/owl.carousel.min.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/bower_components\/owl-carousel\/owl-carousel\/owl.carousel.min.js",
-		"outputAbbreviatedPath": "\/bower_components\/owl-carousel\/owl-carousel\/min\/owl.carousel.min-min.js",
+		"inputAbbreviatedPath": "\/bower_components\/owl-carouselb\/owl-carousel\/owl.carousel.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/owl-carouselb\/owl-carousel\/min\/owl.carousel.min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/bower_components\/owl-carousel\/owl-carousel\/owl.theme.css": {
+	"\/bower_components\/owl-carouselb\/owl-carousel\/owl.theme.css": {
 		"fileType": 16,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/bower_components\/owl-carousel\/owl-carousel\/owl.theme.css",
+		"inputAbbreviatedPath": "\/bower_components\/owl-carouselb\/owl-carousel\/owl.theme.css",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/bower_components\/owl-carousel\/owl-carousel\/owl.transitions.css": {
+	"\/bower_components\/owl-carouselb\/owl-carousel\/owl.transitions.css": {
 		"fileType": 16,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/bower_components\/owl-carousel\/owl-carousel\/owl.transitions.css",
+		"inputAbbreviatedPath": "\/bower_components\/owl-carouselb\/owl-carousel\/owl.transitions.css",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/bower_components\/owl-carousel\/README.md": {
+	"\/bower_components\/owl-carouselb\/README.md": {
 		"enableFootnoteSupport": 0,
 		"enableSmartyPants": 1,
 		"expandTabs": 1,
 		"fileType": 4096,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/bower_components\/owl-carousel\/README.md",
-		"outputAbbreviatedPath": "\/bower_components\/owl-carousel\/README.html",
+		"inputAbbreviatedPath": "\/bower_components\/owl-carouselb\/README.md",
+		"outputAbbreviatedPath": "\/bower_components\/owl-carouselb\/README.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
@@ -9890,7 +10083,7 @@
 	},
 "projectSettings": {
 	"alwaysUseExternalServer": 0,
-	"animateCSSInjections": 0,
+	"animateCSSInjections": 1,
 	"autoApplyPSLanguageSettingsStyle": 0,
 	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
 	"autoSyncProjectSettingsFile": 1,
